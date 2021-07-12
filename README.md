@@ -1,11 +1,18 @@
-# Fruit CompanionCancel changes
+# Fruit Companion
 > Fruit Companion is a complete set of the construction of DIYed brix hydrometer.
 
 
 
 ## Installation
 
-see `release`
+* Prerequisites:
+   *  Autodesk Inventor 2020 +
+   *  Cadence OrCAD Alllegro 17.4 +
+   *  Xilinx ISE Designer 14.7 +
+   *  Python 3.9 
+   *  Tensorflow 2.5.0   
+
+For installable APK, please direct to `release`.
 
 ## Usage example
 
