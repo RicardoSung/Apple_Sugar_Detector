@@ -27,6 +27,15 @@ TBD
     * PCB design first version uploaded
     * External structure first version uploaded
     * Android application first version uploaded
+* 0.2
+    * PCB design second version uploaded
+    * External structure second version uploaded
+    * Android application second version uploaded
+    * Optic simulation first version uploaded
+* 0.3
+    * Neural network first version uploaded
+    * External structure third version uploaded
+    * Optic simulation second version uploaded
 
 ## Meta
 
