@@ -1,0 +1,7 @@
+verilog work "CCD_SH.v"
+verilog work "CCD_MASTER.v"
+verilog work "CCD_ICG.v"
+verilog work "UART_TX.v"
+verilog work "UART_RX.v"
+verilog work "CCD_Interface.v"
+verilog work "top.v"

@@ -1,0 +1,463 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "3V3",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\3V3\\",
+			"Logical" : null,
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "1V2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\1V2\\",
+			"Logical" : null,
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "1V2_PAGE",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\1V2_PAGE\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : null
+		},
+		{
+			"Name" : "3V3_PAGE",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\3V3_PAGE\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C1.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30745\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\2\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "C10.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24248\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C11.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27078\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C13.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27434\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C14.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24968\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C15.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30873\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C16.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27198\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "C17.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27494\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "C18.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27218\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "C19.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27118\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "C2.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24288\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C20.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26690\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "C21.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27604\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "C22.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27158\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C23.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27474\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C24.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS25676\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C25.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27178\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C27.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27454\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C3.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24308\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C31.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS35838\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C32.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS36213\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C33.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS36375\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C4.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27534\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C5.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26710\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C6.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27258\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C7.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS23538\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C8.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26758\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C9.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27278\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "IC1.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS44187\\@\\RETHINKERSLIB\\.\\TCD1304DG_8Z,AW_.Normal\\(chips):\\VAD\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "IC1.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS44187\\@\\RETHINKERSLIB\\.\\TCD1304DG_8Z,AW_.Normal\\(chips):\\VDD\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "J1.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27366\\@\\CONNECTOR\\.\\CONN SOCKET 7x2.Normal\\(chips):\\8\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "R2.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27346\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips):\\2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "R27.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS45354\\@\\DISCRETE\\.\\R.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "R3.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27298\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "R36.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS79334\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips):\\2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "R38.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS79386\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips):\\2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "R4.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27554\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "R6.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS28334\\@d.s(v):\\1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.19",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCINT\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "U1.52",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCINT_2\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "U1.28",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCINT_1\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "U1.63",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCO_2_1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.20",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCAUX\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.36",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCAUX_1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.53",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCAUX_2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.42",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCO_2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.4",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCO_3\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.31",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCO_3_2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.18",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS16879\\@d.s(v):\\VCCO_3_1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.128",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCINT_4\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "U1.89",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCINT_3\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "U1.135",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCO_0_2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.129",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCAUX_4\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.122",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCO_0\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.125",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCO_0_1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.103",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCO_1_2\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.86",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCO_1_1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.90",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCAUX_3\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U1.76",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26778\\@d.s(v):\\VCCO_1\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U2.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30761\\@d.s(v):\\OUTPUT\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "U2.4",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30761\\@d.s(v):\\VOUT\\",
+			"Logical" : "1V2_PAGE",
+			"Physical" : "1V2"
+		},
+		{
+			"Name" : "U3.2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30889\\@d.s(v):\\OUTPUT\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U3.4",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30889\\@d.s(v):\\VOUT\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U4.3",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS28290\\@d.s(v):\\W-\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U4.8",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS28290\\@d.s(v):\\VCC\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U4.7",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS28290\\@d.s(v):\\HOLD-\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U6.18",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS31651\\@\\RETHINKERSLIB\\.\\HT82V38.Normal\\(chips):\\AVDD#2318\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U6.28",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS31651\\@\\RETHINKERSLIB\\.\\HT82V38.Normal\\(chips):\\AVDD#28\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U6.5",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS31651\\@\\RETHINKERSLIB\\.\\HT82V38.Normal\\(chips):\\DVDD\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U7.8",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS45869\\@\\RETHINKERSLIB\\.\\TC7WH14FU.Normal\\(chips):\\VCC\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "Y1.4",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27318\\@\\RETHINKERSLIB\\.\\Oscillator 4p.Normal\\(chips):\\VCC\\",
+			"Logical" : "3V3_PAGE",
+			"Physical" : "3V3"
+		}
+	]
+}

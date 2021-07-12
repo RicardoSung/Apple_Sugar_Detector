@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Automatic B/B Via Creation                               )
+(                                                                     )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Fri Jun 18 01:47:41 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Via to be copied: Via
+Start subclass: TOP
+End subclass: BOTTOM
+Old drawing: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/#Taaaaaz09232.tmp
+New drawing: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/#Taaaaaz09232.tmp
+Vias added to physical constraint set: DEFAULT
+
+B/B Via TOP-BOTTOM created
+
+Number of padstacks created 1
+Number of existing padstacks that did not need to be modified: 0
+Number of existing padstacks that were modified: 0
+Number of existing padstacks that could not be modified: 0
+
+bbvia is complete.

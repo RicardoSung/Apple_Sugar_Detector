@@ -1,0 +1,130 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : fpga_ccd_3_with_logo.brd                      )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Wed Jun 23 12:13:45 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Jun 23 12:13:45 2021				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'F:/PCB/Cadence_PCB/FPGA_CCD/allegro/fpga_ccd_3_with_logo.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/local/pcb/symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/pcb/pcb_lib/symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/pcb/allegrolib/symbols 
+           D:/OrCAD/Cadence/Cadence_SPB_17.4-2019/share/local/pcb/symbols 
+           F:/PCB/lib/Cadence_lib/Download 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/local/pcb/padstacks 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/pcb/pcb_lib/symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/pcb/allegrolib/symbols 
+           D:/OrCAD/Cadence/Cadence_SPB_17.4-2019/share/local/pcb/padstacks 
+           F:/PCB/lib/Cadence_lib/Download 
+
+
+------ Pad Stack Refresh Messages ------
+
+'C195_H130'  pad stack refresh starting.
+
+     'C195_H130'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+'T_L60_80SL_160_M160_80'  pad stack refresh starting.
+
+     'T_L60_80SL_160_M160_80'  pad stack refreshed successfully.
+     
+'T_L60_105SL_210_M210_105'  pad stack refresh starting.
+
+     'T_L60_105SL_210_M210_105'  pad stack refreshed successfully.
+     
+'H_C65'  pad stack refresh starting.
+
+     'H_C65'  pad stack refreshed successfully.
+     
+'08_BULK_HEADER'  pad stack refresh starting.
+
+     '08_BULK_HEADER'  pad stack refreshed successfully.
+     
+'C122_H82'  pad stack refresh starting.
+
+     'C122_H82'  pad stack refreshed successfully.
+     
+'S122_H82'  pad stack refresh starting.
+
+     'S122_H82'  pad stack refreshed successfully.
+     
+'R180_160'  pad stack refresh starting.
+
+     'R180_160'  pad stack refreshed successfully.
+     
+'RX39P5Y14D0T'  pad stack refresh starting.
+
+     'RX39P5Y14D0T'  pad stack refreshed successfully.
+     
+'S_R170T48D2M170_48P170_48'  pad stack refresh starting.
+
+     'S_R170T48D2M170_48P170_48'  pad stack refreshed successfully.
+     
+'S_R30_100'  pad stack refresh starting.
+
+     'S_R30_100'  pad stack refreshed successfully.
+     
+'SMD50_25'  pad stack refresh starting.
+
+     'SMD50_25'  pad stack refreshed successfully.
+     
+'RX126Y58D0T'  pad stack refresh starting.
+
+     'RX126Y58D0T'  pad stack refreshed successfully.
+     
+'RX35Y58D0T'  pad stack refresh starting.
+
+     'RX35Y58D0T'  pad stack refreshed successfully.
+     
+'RX11Y53P5D0T'  pad stack refresh starting.
+
+     'RX11Y53P5D0T'  pad stack refreshed successfully.
+     
+'R145_105'  pad stack refresh starting.
+
+     'R145_105'  pad stack refreshed successfully.
+     
+'SMD20_17'  pad stack refresh starting.
+
+     'SMD20_17'  pad stack refreshed successfully.
+     
+'S_R30T130M30_130P30_130'  pad stack refresh starting.
+
+     'S_R30T130M30_130P30_130'  pad stack refreshed successfully.
+     
+'S_R60T130M60_130P60_130'  pad stack refresh starting.
+
+     'S_R60T130M60_130P60_130'  pad stack refreshed successfully.
+     
+'R94_54'  pad stack refresh starting.
+
+     'R94_54'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

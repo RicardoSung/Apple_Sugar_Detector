@@ -1,0 +1,281 @@
+(ExpressProject "FPGA_CCD"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S017 (3936576)  [4/19/2021]-[06/22/21]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "61215")
+    (NoModify)
+    (File ".\fpga_ccd.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "TRUE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "TRUE")
+    (DRC_Check_Ports_Online "TRUE")
+    (DRC_Check_Unconnected_Nets_Online "TRUE")
+    (DRC_Check_Floating_Pins_Online "TRUE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "FALSE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "F:\PCB\CADENCE_PCB\FPGA_CCD\FPGA_CCD.DRC")
+    (Board_sim_option "VHDL_flow")
+    ("Allegro Netlist Output Board File" ".\allegro\fpga_ccd_3.brd")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Display_Online_DRC_Results "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File
+       "C:\Users\Ricardo\AppData\Roaming\Microsoft\Windows\Network Shortcuts\te.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File "F:\PCB\CADENCE_PCB\FPGA_CCD\FPGA_CCD.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\fpga_ccd.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\fpga_ccd.brd")
+      (NetListPath ".\pcb")
+      (ActiveBoard "0"))
+    (File ".\allegro\fpga_ccd_2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\fpga_ccd_2.brd")
+      (NetListPath ".\netlist")
+      (ActiveBoard "0"))
+    (File ".\allegro\fpga_ccd_3.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\fpga_ccd_3.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1"))
+    (File ".\allegro\fpga_ccd_3_with_logo.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\fpga_ccd_3_with_logo.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\fpga_ccd.drc"
+      (Type "Report"))
+    (File
+       "c:\users\ricardo\appdata\roaming\microsoft\windows\network shortcuts\te.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\pcb\netlist.log"
+      (Type "Log File")
+      (LogFile "f:\pcb\cadence_pcb\fpga_ccd\pcb\netlist.log"))
+    (File ".\pcb\netrev.lst"
+      (Type "Log File")
+      (LogFile "f:\pcb\cadence_pcb\fpga_ccd\pcb\netrev.lst"))
+    (File ".\pcb\eco.txt"
+      (Type "Log File")
+      (LogFile "f:\pcb\cadence_pcb\fpga_ccd\pcb\eco.txt"))
+    (File ".\pcb\genfeed.log"
+      (Type "Log File")
+      (LogFile "f:\pcb\cadence_pcb\fpga_ccd\pcb\genfeed.log"))
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "F:\PCB\Cadence_PCB\FPGA_CCD\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "F:\PCB\Cadence_PCB\FPGA_CCD\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "F:\PCB\Cadence_PCB\FPGA_CCD\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile "f:\pcb\cadence_pcb\fpga_ccd\allegro\genfeed.log"))
+    (File ".\netlist\netlist.log"
+      (Type "Log File")
+      (LogFile "F:\PCB\Cadence_PCB\FPGA_CCD\NetList\netlist.log"))
+    (File ".\netlist\netrev.lst"
+      (Type "Log File")
+      (LogFile "F:\PCB\Cadence_PCB\FPGA_CCD\NetList\netrev.lst"))
+    (File ".\netlist\eco.txt"
+      (Type "Log File")
+      (LogFile "F:\PCB\Cadence_PCB\FPGA_CCD\NetList\eco.txt"))
+    (File ".\netlist\genfeed.log"
+      (Type "Log File")
+      (LogFile "F:\PCB\Cadence_PCB\FPGA_CCD\NetList\genfeed.log")))
+  (PartMRUSelector
+    (TB006-508-02BE
+      (FullPartName "TB006-508-02BE.Normal")
+      (LibraryName "F:\PCB\LIB\CADENCE_LIB\RETHINKERS_LIB\RETHINKERSLIB.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("USB-C 16pin"
+      (FullPartName "USB-C 16pin.Normal")
+      (LibraryName "F:\PCB\LIB\CADENCE_LIB\RETHINKERS_LIB\RETHINKERSLIB.OLB")
+      (DeviceIndex "0"))
+    (TC7WH14FU
+      (FullPartName "TC7WH14FU.Normal")
+      (LibraryName "F:\PCB\LIB\CADENCE_LIB\RETHINKERS_LIB\RETHINKERSLIB.OLB")
+      (DeviceIndex "0"))
+    (2N6432
+      (FullPartName "2N6432.Normal")
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (2N6520
+      (FullPartName "2N6520.Normal")
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (TCD1304DG_8Z,AW_
+      (FullPartName "TCD1304DG_8Z,AW_.Normal")
+      (LibraryName "F:\PCB\LIB\CADENCE_LIB\RETHINKERS_LIB\RETHINKERSLIB.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "D:\ORCAD\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (HT82V38
+      (FullPartName "HT82V38.Normal")
+      (LibraryName "F:\PCB\LIB\CADENCE_LIB\RETHINKERS_LIB\RETHINKERSLIB.OLB")
+      (DeviceIndex "0"))
+    (CH340E
+      (FullPartName "CH340E.Normal")
+      (LibraryName "F:\PCB\LIB\CADENCE_LIB\RETHINKERS_LIB\RETHINKERSLIB.OLB")
+      (DeviceIndex "0"))
+    (CH340G
+      (FullPartName "CH340G.Normal")
+      (LibraryName "F:\PCB\LIB\CADENCE_LIB\RETHINKERS_LIB\RETHINKERSLIB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "f:\pcb\cadence_pcb\fpga_ccd\fpga_ccd.dsn")
+      (Path "Design Resources" "f:\pcb\cadence_pcb\fpga_ccd\fpga_ccd.dsn"
+         "SCHEMATIC1")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources" "f:\pcb\cadence_pcb\fpga_ccd\fpga_ccd.dsn"
+         "SCHEMATIC1" "03 Com"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 3298 0 1293"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 28 5 3307 28 1325")
+        (Scroll "-807 -9")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path "F:\PCB\CADENCE_PCB\FPGA_CCD\FPGA_CCD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02 FPGA"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 3307 28 1325")
+        (Scroll "-662 -11")
+        (Zoom "128")
+        (Occurrence "/"))
+      (Path "F:\PCB\CADENCE_PCB\FPGA_CCD\FPGA_CCD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03 Com")))
+  (MPSSessionName "Ricardo")
+  (LastUsedLibraryBrowseDirectory "F:\PCB\lib\Cadence_lib\Rethinkers_lib")
+  (ISPCBBASICLICENSE "false"))

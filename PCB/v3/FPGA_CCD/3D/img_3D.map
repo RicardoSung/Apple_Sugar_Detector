@@ -1,0 +1,61 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<STEP-3D-MAPPING revision="A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header lengthUnit="MILS"/>
+  <Body>
+    <MapItem package="TQG144_XIL">
+      <StepModel type="PRIMARY" file="TQG144_XIL.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="0805">
+      <StepModel type="PRIMARY" file="RES_CRCW_2512.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="0603">
+      <StepModel type="PRIMARY" file="0603.step">
+        <Offset x="0.000000" y="0.000000" z="1.208661"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOT_AMS1117-2P5_AMS">
+      <StepModel type="PRIMARY" file="SOT_AMS1117-2P5_AMS.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SMD7050">
+      <StepModel type="PRIMARY" file="LFSPXO018036Reel.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SSOP-8">
+      <StepModel type="PRIMARY" file="SM8_TOS.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SHENZHEN-CHUANGQIN-TECHNOLO">
+      <StepModel type="PRIMARY" file="CQ-USB-C16PSMT01--3DModel-STEP-1.STEP">
+        <Offset x="-0.189961" y="-146.996772" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="DIP1016W62P254L4160H372Q22N">
+      <StepModel type="PRIMARY" file="TCD1304DG_8Z">
+        <Offset x="200.944882" y="-500.787402" z="0.000039"/>
+        <Rotation x="0.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="1623549782" r="3170737.980392" g="3575235.956863" b="3499959.913725"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SSOP-28">
+      <StepModel type="PRIMARY" file="SSOP-28.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    </Body>
+  </STEP-3D-MAPPING>

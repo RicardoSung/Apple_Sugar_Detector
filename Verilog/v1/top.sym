@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="top">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2021-7-7T11:42:46</timestamp>
+    <attr value="top" name="VeriModel" />
+    <pin polarity="Input" x="0" y="-32" name="clk_50m" />
+    <pin polarity="Input" x="0" y="32" name="rst" />
+    <pin polarity="Output" x="384" y="32" name="CCD_Master" />
+    <pin polarity="Output" x="384" y="96" name="CCD_SH" />
+    <pin polarity="Output" x="384" y="160" name="CCD_ICG" />
+    <pin polarity="Output" x="384" y="-32" name="led" />
+    <graph>
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="192" y="-72" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-32" type="pin clk_50m" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="32" type="pin rst" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="32" type="pin CCD_Master" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="96" type="pin CCD_SH" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="160" type="pin CCD_ICG" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-32" type="pin led" />
+        <line x2="0" y1="32" y2="32" x1="64" />
+        <line x2="384" y1="32" y2="32" x1="320" />
+        <line x2="384" y1="96" y2="96" x1="320" />
+        <line x2="384" y1="160" y2="160" x1="320" />
+        <line x2="0" y1="-32" y2="-32" x1="64" />
+        <line x2="384" y1="-32" y2="-32" x1="320" />
+        <rect width="256" x="64" y="-64" height="256" />
+    </graph>
+</symbol>

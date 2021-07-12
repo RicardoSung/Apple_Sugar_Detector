@@ -1,0 +1,474 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "C1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30745\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C10",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24248\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C11",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27078\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C12",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30841\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C13",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27434\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C14",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24968\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C15",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30873\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C16",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27198\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C17",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27494\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C18",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27218\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C19",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27118\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24288\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C20",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26690\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C21",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27604\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C22",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27158\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C23",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27474\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C24",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS25676\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C25",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27178\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C26",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS30969\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C27",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27454\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C28",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS29755\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C29",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS31044\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C3",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24308\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C30",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS31209\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C31",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS35838\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C32",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS36213\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C33",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS36375\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C34",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS39800\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C35",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS39826\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C36",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS39859\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C37",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS39885\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_10UF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_10UF"
+		},
+		{
+			"Name" : "C38",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS40025\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C4",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27534\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C5",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26710\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C6",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27258\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C7",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS23538\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C8",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS26758\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "C9",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27278\\@\\DISCRETE\\.\\CAP NP.Normal\\(chips)",
+			"Logical" : "CAP NP_0603_DISCRETE_100NF",
+			"Physical" : "CAP NP_CAP0603_DISCRETE_100NF"
+		},
+		{
+			"Name" : "R1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27514\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_4.7K",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_4.7K"
+		},
+		{
+			"Name" : "R10",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS41342\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_NC",
+			"Physical" : "R_RES0603_DISCRETE_NC"
+		},
+		{
+			"Name" : "R11",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS42667\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R12",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS42683\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R13",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS42699\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R14",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS42715\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R15",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS42731\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R16",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS42747\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R17",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS42763\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R18",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS42779\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R19",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS43196\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27346\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_4.7K",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_4.7K"
+		},
+		{
+			"Name" : "R20",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS43234\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R21",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS43272\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R22",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS43606\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R23",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS43653\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R24",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS43689\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R25",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS45093\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_150R",
+			"Physical" : "R_RES0603_DISCRETE_150R"
+		},
+		{
+			"Name" : "R26",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS45200\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_150R",
+			"Physical" : "R_RES0603_DISCRETE_150R"
+		},
+		{
+			"Name" : "R27",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS45354\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_150R",
+			"Physical" : "R_RES0603_DISCRETE_150R"
+		},
+		{
+			"Name" : "R28",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS46142\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R29",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS46206\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R3",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27298\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_4.7K",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_4.7K"
+		},
+		{
+			"Name" : "R30",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS46286\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_33R",
+			"Physical" : "R_RES0603_DISCRETE_33R"
+		},
+		{
+			"Name" : "R31",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS49282\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_5.1K",
+			"Physical" : "R_RES0603_DISCRETE_5.1K"
+		},
+		{
+			"Name" : "R32",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS49548\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_5.1K",
+			"Physical" : "R_RES0603_DISCRETE_5.1K"
+		},
+		{
+			"Name" : "R33",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS50135\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_45R",
+			"Physical" : "R_RES0603_DISCRETE_45R"
+		},
+		{
+			"Name" : "R34",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS50197\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_45R",
+			"Physical" : "R_RES0603_DISCRETE_45R"
+		},
+		{
+			"Name" : "R35",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS75104\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_1K",
+			"Physical" : "R_RES0603_DISCRETE_1K"
+		},
+		{
+			"Name" : "R36",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS79334\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_0R",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_0R"
+		},
+		{
+			"Name" : "R37",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS79360\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_NC",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_NC"
+		},
+		{
+			"Name" : "R38",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS79386\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_NC",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_NC"
+		},
+		{
+			"Name" : "R39",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS79412\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_1K",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_1K"
+		},
+		{
+			"Name" : "R4",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS27554\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_4.7K",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_4.7K"
+		},
+		{
+			"Name" : "R5",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS24328\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_33",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_33"
+		},
+		{
+			"Name" : "R6",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS28334\\@d.s(v)",
+			"Logical" : "RES 0603_0603_DISCRETE_4.7K",
+			"Physical" : "RES 0603_RES0603_DISCRETE_4.7K"
+		},
+		{
+			"Name" : "R7",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS28354\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_33",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_33"
+		},
+		{
+			"Name" : "R8",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS89324\\@\\DISCRETE\\.\\RESISTOR.Normal\\(chips)",
+			"Logical" : "RESISTOR_0603_DISCRETE_33",
+			"Physical" : "RESISTOR_RES0603_DISCRETE_33"
+		},
+		{
+			"Name" : "R9",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS41316\\@\\DISCRETE\\.\\R.Normal\\(chips)",
+			"Logical" : "R_0603_DISCRETE_NC",
+			"Physical" : "R_RES0603_DISCRETE_NC"
+		}
+	],
+	"Net" : [],
+	"Connection" : []
+}

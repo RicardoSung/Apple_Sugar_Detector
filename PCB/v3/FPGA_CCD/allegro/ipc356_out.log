@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Wed Jun 23 09:56:51 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String S_R60T130M60_130P60_130 exceeds record length on line 40 at column 0
+Warning: String S_R30T130M30_130P30_130 exceeds record length on line 41 at column 0
+Warning: String S_R170T48D2M170_48P170_48 exceeds record length on line 49 at column 0
+Warning: String T_L60_105SL_210_M210_105 exceeds record length on line 56 at column 0
+Warning: String T_L60_80SL_160_M160_80 exceeds record length on line 57 at column 0
+Warning: String A1_B12 exceeds record length on line 251 at column 27
+Warning: String B1_A12 exceeds record length on line 253 at column 27
+Warning: String A4_B9 exceeds record length on line 275 at column 27
+Warning: String B4_A9 exceeds record length on line 276 at column 27
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:     9

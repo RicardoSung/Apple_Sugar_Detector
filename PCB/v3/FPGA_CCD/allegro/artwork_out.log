@@ -1,0 +1,51 @@
+                             Create Artwork Films
+
+
+Software Version : 17.4-2019 S017
+Date/Time        : Tue Jun 22 19:27:13 2021
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+F:\PCB\Cadence_PCB\FPGA_CCD\allegro\fpga_ccd_3\fpga_ccd_3_ASM
+ 1 ADB.art                        --> Not exist
+ 2 ADT.art                        --> Not exist
+
+
+--------------------------------------------------------------------------------
+F:\PCB\Cadence_PCB\FPGA_CCD\allegro\fpga_ccd_3\fpga_ccd_3_CAM
+ 1 fpga_ccd_3.ipc                 --> Created
+
+ 1 BOTTOM.art                     --> Not exist
+ 2 DRILL.art                      --> Not exist
+ 3 GND.art                        --> Not exist
+ 4 POWER.art                      --> Not exist
+ 5 SILKBOT.art                    --> Not exist
+ 6 SILKTOP.art                    --> Not exist
+ 7 SOLDBOT.art                    --> Not exist
+ 8 SOLDTOP.art                    --> Not exist
+ 9 TOP.art                        --> Not exist
+10 fpga_ccd_3-1-4.drl             --> Not exist
+11 fpga_ccd_3.rou                 --> Not exist
+
+
+--------------------------------------------------------------------------------
+F:\PCB\Cadence_PCB\FPGA_CCD\allegro\fpga_ccd_3\fpga_ccd_3_SMT
+ 1 fpga_ccd_3_XY(design by fastprint).txt --> Created
+
+ 1 PASTBOT.art                    --> Not exist
+ 2 PASTTOP.art                    --> Not exist
+
+
+--------------------------------------------------------------------------------
+F:\PCB\Cadence_PCB\FPGA_CCD\allegro\fpga_ccd_3\fpga_ccd_3_PCB
+ 1 fpga_ccd_3.brd                 --> Created
+
+
+--------------------------------------------------------------------------------
+F:\PCB\Cadence_PCB\FPGA_CCD\allegro\fpga_ccd_3\fpga_ccd_3_SCH
+
+
+--------------------------------------------------------------------------------
+
+                                     End

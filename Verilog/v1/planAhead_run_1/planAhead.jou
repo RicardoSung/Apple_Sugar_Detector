@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Fri Jul 09 12:13:41 2021
+# Process ID: 23948
+# Log file: E:/FPGA_Xilinx/ISE/CCD/planAhead_run_1/planAhead.log
+# Journal file: E:/FPGA_Xilinx/ISE/CCD/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source E:/FPGA_Xilinx/ISE/CCD/pa.fromNetlist.tcl
+startgroup
+set_property package_pin P33 [get_ports UART_RXD]
+endgroup
+set_property iostandard LVCMOS33 [get_ports [list UART_RXD]]
+set_property is_loc_fixed false [get_ports [list  UART_RXD]]
+set_property is_loc_fixed true [get_ports [list  UART_RXD]]
+save_constraints

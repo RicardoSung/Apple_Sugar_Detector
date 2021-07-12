@@ -1,0 +1,188 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Connector_Conn_01x04_Female
+#
+DEF Connector_Conn_01x04_Female J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Connector_Conn_01x04_Female" 0 -300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+A 0 -200 20 901 -901 1 1 6 N 0 -180 0 -220
+A 0 -100 20 901 -901 1 1 6 N 0 -80 0 -120
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+A 0 100 20 901 -901 1 1 6 N 0 120 0 80
+P 2 1 1 6 -50 -200 -20 -200 N
+P 2 1 1 6 -50 -100 -20 -100 N
+P 2 1 1 6 -50 0 -20 0 N
+P 2 1 1 6 -50 100 -20 100 N
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+X Pin_4 4 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# lc_Cap_0603_100nF__104_10%_50V
+#
+DEF lc_Cap_0603_100nF__104_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "lc_Cap_0603_100nF__104_10%_50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_15331.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C14663" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "100nF (104) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# lc_RES_0603_150Ω__1500_1%
+#
+DEF lc_RES_0603_150Ω__1500_1% R 0 40 N N 1 F N
+F0 "R" -200 90 50 H V L BNN
+F1 "lc_RES_0603_150Ω__1500_1%" -150 190 50 H I L BNN
+F2 "lc_lib:0603_R" -200 -240 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_23535.html" -200 -140 50 H I L BNN
+F4 "贴片电阻" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -200 -340 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -200 -440 50 H I L BNN "Package"
+F7 "LC" -200 -540 50 H I L BNN "Supplier"
+F8 "C22808" -200 -640 50 H I L BNN "SuppliersPartNumber"
+F9 "150Ω (1500) ±1%" -50 90 50 H V L BNN "Comment"
+DRAW
+S -100 -40 100 40 1 1 10 N
+X 1 1 -200 0 100 R 50 50 1 1 P
+X 2 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# lc_RES_0603_2.2KΩ__2201_1%
+#
+DEF lc_RES_0603_2.2KΩ__2201_1% R 0 40 N N 1 F N
+F0 "R" -200 90 50 H V L BNN
+F1 "lc_RES_0603_2.2KΩ__2201_1%" -150 190 50 H I L BNN
+F2 "lc_lib:0603_R" -200 -240 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_4597.html" -200 -140 50 H I L BNN
+F4 "贴片电阻" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -200 -340 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -200 -440 50 H I L BNN "Package"
+F7 "LC" -200 -540 50 H I L BNN "Supplier"
+F8 "C4190" -200 -640 50 H I L BNN "SuppliersPartNumber"
+F9 "2.2KΩ (2201) ±1%" -50 90 50 H V L BNN "Comment"
+DRAW
+S -100 -40 100 40 1 1 10 N
+X 1 1 -200 0 100 R 50 50 1 1 P
+X 2 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# power_GND
+#
+DEF power_GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "power_GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# ricardo_2SA1015_SMD
+#
+DEF ricardo_2SA1015_SMD U 0 40 Y Y 1 F N
+F0 "U" 350 700 50 H V C CNN
+F1 "ricardo_2SA1015_SMD" 350 700 50 H V C CNN
+F2 "lc_lib:SOT-23(SOT-23-3)" 350 700 50 H I C CNN
+F3 "" 350 700 50 H I C CNN
+DRAW
+C 0 0 111 1 1 10 N
+P 2 1 1 0 -50 0 -25 0 N
+P 2 1 1 0 50 -100 -25 -25 N
+P 2 1 1 0 50 100 -25 25 N
+P 3 1 1 20 -25 75 -25 -75 -25 -75 F
+P 5 1 1 0 20 -90 40 -70 0 -50 20 -90 20 -90 F
+X B 1 -250 0 200 R 50 50 1 1 I
+X E 2 50 -200 100 U 50 50 1 1 P
+X C 3 50 200 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ricardo_TC7WH14FU
+#
+DEF ricardo_TC7WH14FU U 0 40 Y Y 1 F N
+F0 "U" 0 350 50 H V C CNN
+F1 "ricardo_TC7WH14FU" 0 250 50 H V C CNN
+F2 "ricardo:SOP65P640X120-8N" 50 300 50 H I C CNN
+F3 "" 50 300 50 H I C CNN
+DRAW
+S -200 200 200 -200 0 1 0 f
+X 1A 1 -300 150 100 R 50 50 0 0 I
+X 3Y 2 -300 50 100 R 50 50 0 0 O
+X 2A 3 -300 -50 100 R 50 50 0 0 I
+X GND 4 -300 -150 100 R 50 50 0 0 w
+X 2Y 5 300 -150 100 L 50 50 0 0 O
+X 3A 6 300 -50 100 L 50 50 0 0 I
+X 1Y 7 300 50 100 L 50 50 0 0 O
+X VCC 8 300 150 100 L 50 50 0 0 W
+ENDDRAW
+ENDDEF
+#
+# ricardo_TCD1304DG_8Z,AW_
+#
+DEF ricardo_TCD1304DG_8Z,AW_ IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "ricardo_TCD1304DG_8Z,AW_" 1050 200 50 H V L CNN
+F2 "ricardo:DIP1016W62P254L4160H372Q22N" 1050 100 50 H I L CNN
+F3 "" 1050 0 50 H I L CNN
+F4 "Image Sensors & Color Sensors CCD Linear Sensor 3648 8x20 54mm" 1050 -100 50 H I L CNN "Description"
+F5 "3.72" 1050 -200 50 H I L CNN "Height"
+F6 "Toshiba" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TCD1304DG(8Z,AW)" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "757-TCD1304DG8ZAW" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Toshiba/TCD1304DG8ZAW?qs=OLJpxlzHOSRVMcyirxbASw%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TCD1304DG(8Z,AW)" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tcd1304dg-8zaw/toshiba" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -1100 200 -1100 200 100 N
+X VDD 1 0 0 200 R 50 50 0 0 W
+X NC_5 10 0 -900 200 R 50 50 0 0 W
+X NC_6 11 0 -1000 200 R 50 50 0 0 W
+X NC_7 12 1200 -1000 200 L 50 50 0 0 W
+X NC_8 13 1200 -900 200 L 50 50 0 0 W
+X NC_9 14 1200 -800 200 L 50 50 0 0 W
+X NC_10 15 1200 -700 200 L 50 50 0 0 W
+X NC_11 16 1200 -600 200 L 50 50 0 0 W
+X NC_12 17 1200 -500 200 L 50 50 0 0 W
+X NC_13 18 1200 -400 200 L 50 50 0 0 W
+X NC_14 19 1200 -300 200 L 50 50 0 0 W
+X VAD 2 0 -100 200 R 50 50 0 0 W
+X NC_15 20 1200 -200 200 L 50 50 0 0 W
+X OS 21 1200 -100 200 L 50 50 0 0 O
+X SS 22 1200 0 200 L 50 50 0 0 W
+X ICG 3 0 -200 200 R 50 50 0 0 I
+X M 4 0 -300 200 R 50 50 0 0 I
+X SH 5 0 -400 200 R 50 50 0 0 I
+X NC_1 6 0 -500 200 R 50 50 0 0 W
+X NC_2 7 0 -600 200 R 50 50 0 0 W
+X NC_3 8 0 -700 200 R 50 50 0 0 W
+X NC_4 9 0 -800 200 R 50 50 0 0 W
+ENDDRAW
+ENDDEF
+#
+#End Library

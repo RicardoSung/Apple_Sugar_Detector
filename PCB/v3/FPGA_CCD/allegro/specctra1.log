@@ -1,0 +1,331 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Fri Jun 18 01:57:29 2021
+# 
+# Allegro PCB Router v17-4-0 made 2021/02/21 at 12:48:59
+# Running on: desktop-tvb2d8n, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Batch File Name: pasde.do
+# Did File Name: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/specctra1.did
+# Current time = Fri Jun 18 01:57:29 2021
+# PCB F:/PCB/Cadence_PCB/FPGA_CCD/allegro
+# Master Unit set up as: MIL 1000
+# PCB Limits xlo=10210.5000 ylo=10728.3500 xhi=13477.5000 yhi=12854.6500
+# Total 80 Images Consolidated.
+# Via VIA z=1, 2 xlo=-12.0000 ylo=-12.0000 xhi= 12.0000 yhi= 12.0000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 105, Vias Processed 31
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 93, Images Processed 106, Padstacks Processed 20
+# Nets Processed 81, Net Terminals 377
+# PCB Area=5741010.000  EIC=30  Area/EIC=191367.000  SMDs=91
+# Total Pin Count: 429
+# Signal Connections Created 178
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 178
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 6, at vias 6 Total Vias 31
+# Percent Connected   32.83
+# Manhattan Length 65128.6400 Horizontal 41983.0260 Vertical 23145.6140
+# Routed Length 32222.1429 Horizontal 23630.6800 Vertical 11878.6900
+# Ratio Actual / Manhattan   0.4947
+# Unconnected Length 36039.6600 Horizontal 19030.2600 Vertical 17009.4000
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3_rules.do ...
+# Nets 'USB_D-' and USB_D+ have been defined as a balanced pair.
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/Ricardo/AppData/Local/Temp/#Taaaaae21080.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.010000 (direction x) (offset 0.000000)
+grid wire 0.010000 (direction y) (offset 0.000000)
+grid via 0.010000 (direction x) (offset 0.000000)
+grid via 0.010000 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+route 25 1
+# Current time = Fri Jun 18 01:57:42 2021
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 178
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 6, at vias 6 Total Vias 31
+# Percent Connected   32.83
+# Manhattan Length 65168.0100 Horizontal 42012.7790 Vertical 23155.2310
+# Routed Length 32222.1429 Horizontal 23630.6800 Vertical 11878.6900
+# Ratio Actual / Manhattan   0.4944
+# Unconnected Length 36039.6600 Horizontal 19030.2600 Vertical 17009.4000
+# Start Route Pass 1 of 25
+# Routing 178 wires.
+# Total Conflicts: 32 (Cross: 29, Clear: 3, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 178 Successes 178 Failures 0 Vias 76
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# Start Route Pass 2 of 25
+# Routing 282 wires.
+# Total Conflicts: 16 (Cross: 16, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 255 Successes 255 Failures 0 Vias 91
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.5000
+# End Pass 2 of 25
+# 6 bend points have been removed.
+# 0 bend points have been removed.
+# 8 bend points have been removed.
+# Start Route Pass 3 of 25
+# Routing 33 wires.
+# Total Conflicts: 2 (Cross: 2, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 31 Successes 31 Failures 0 Vias 95
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 25
+# Start Route Pass 4 of 25
+# Routing 8 wires.
+# 4 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 6 Successes 6 Failures 0 Vias 96
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 4 of 25
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    29|     3|   0|    0|   76|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    16|     0|   0|    0|   91|    0|   0| 50|  0:00:00|  0:00:00|
+# Route    |  3|     2|     0|   0|    0|   95|    0|   0| 87|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    0|   96|    0|   0|100|  0:00:01|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 110, at vias 36 Total Vias 96
+# Percent Connected  100.00
+# Manhattan Length 65203.5960 Horizontal 41878.9040 Vertical 23324.6920
+# Routed Length 73069.2629 Horizontal 45117.8000 Vertical 31238.6900
+# Ratio Actual / Manhattan   1.1206
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+clean 2
+# Current time = Fri Jun 18 01:57:43 2021
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 110, at vias 36 Total Vias 96
+# Percent Connected  100.00
+# Manhattan Length 65203.5960 Horizontal 41878.9040 Vertical 23324.6920
+# Routed Length 73069.2629 Horizontal 45117.8000 Vertical 31238.6900
+# Ratio Actual / Manhattan   1.1206
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 316 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 274 Successes 274 Failures 0 Vias 77
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Start Clean Pass 2 of 2
+# Routing 330 wires.
+# 4 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 280 Successes 280 Failures 0 Vias 76
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    29|     3|   0|    0|   76|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    16|     0|   0|    0|   91|    0|   0| 50|  0:00:00|  0:00:00|
+# Route    |  3|     2|     0|   0|    0|   95|    0|   0| 87|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    0|   96|    0|   0|100|  0:00:01|  0:00:01|
+# Clean    |  5|     0|     0|   0|    0|   77|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    |  6|     0|     0|   0|    0|   76|    0|   0|   |  0:00:01|  0:00:02|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:02
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 112, at vias 34 Total Vias 76
+# Percent Connected  100.00
+# Manhattan Length 64386.9160 Horizontal 41514.7870 Vertical 22872.1290
+# Routed Length 71082.9629 Horizontal 43919.3700 Vertical 30450.8200
+# Ratio Actual / Manhattan   1.1040
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+center
+# Current time = Fri Jun 18 01:57:44 2021
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 112, at vias 34 Total Vias 76
+# Percent Connected  100.00
+# Manhattan Length 64386.9160 Horizontal 41514.7870 Vertical 22872.1290
+# Routed Length 71082.9629 Horizontal 43919.3700 Vertical 30450.8200
+# Ratio Actual / Manhattan   1.1040
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+spread (extra 2.500000)
+# Current time = Fri Jun 18 01:57:44 2021
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 112, at vias 34 Total Vias 76
+# Percent Connected  100.00
+# Manhattan Length 64386.9160 Horizontal 41514.7870 Vertical 22872.1290
+# Routed Length 71082.9629 Horizontal 43919.3700 Vertical 30450.8200
+# Ratio Actual / Manhattan   1.1040
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# 10 bend points have been removed.
+# 1 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 112, at vias 34 Total Vias 76
+# Percent Connected  100.00
+# Manhattan Length 64386.9160 Horizontal 41514.7870 Vertical 22872.1290
+# Routed Length 71097.9629 Horizontal 43924.3700 Vertical 30460.8200
+# Ratio Actual / Manhattan   1.1042
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+miter (style diagonal) (pin) (slant) (bend) (layer TOP BOTTOM)
+# Diagonal wire corners are preferred.
+# Current time = Fri Jun 18 01:57:44 2021
+# 39 bend points have been removed.
+# Convert orthogonal pin exit to diagonal...
+# Convert wire segment to diagonal...
+# Convert orthogonal corner to diagonal...
+# 0 bend points have been removed.
+# Corners changed 206
+# 90 degree wire corners are preferred.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 265 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 110, at vias 34 Total Vias 76
+# Percent Connected  100.00
+# Manhattan Length 64386.9160 Horizontal 41514.7870 Vertical 22872.1290
+# Routed Length 68551.9485 Horizontal 44077.8800 Vertical 30616.9400
+# Ratio Actual / Manhattan   1.0647
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+write routes (changed_only) (reset_changed) C:/Users/Ricardo/AppData/Local/Temp/#Taaaaaf21080.tmp
+# Routing Written to File C:/Users/Ricardo/AppData/Local/Temp/#Taaaaaf21080.tmp
+quit

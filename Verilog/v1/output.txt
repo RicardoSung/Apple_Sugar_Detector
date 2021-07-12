@@ -1,0 +1,14 @@
+Storage Target: SPI Flash Single FPGA
+16M
+FF
+exFlash
+E:\FPGA_Xilinx\ISE\CCD\
+
+MCS
+No
+PGA_Xilinx\ISE\CCD\
+
+MCS
+S
+1
+No

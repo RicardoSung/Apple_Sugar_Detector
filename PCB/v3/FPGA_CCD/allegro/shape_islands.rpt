@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : fpga_ccd_3.brd                                )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Fri Jun 18 11:44:33 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 31
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (323.74 1539.25)  Net: GND
+	Point on shape: (2357.67 1155.48)  Net: GND
+	Point on shape: (2274.02 1113.15)  Net: GND
+	Point on shape: (1825.02 969.93)  Net: GND
+	Point on shape: (1825.02 930.56)  Net: GND
+	Point on shape: (2072.14 863.98)  Net: GND
+	Point on shape: (2072.14 812.98)  Net: GND
+	Point on shape: (2072.14 699.50)  Net: GND
+	Point on shape: (1731.16 691.99)  Net: GND
+	Point on shape: (2778.14 573.50)  Net: GND
+	Point on shape: (2660.79 559.76)  Net: GND
+	Point on shape: (2569.18 531.24)  Net: GND
+	Point on shape: (2830.02 471.00)  Net: GND
+	Point on shape: (360.02 214.15)  Net: GND
+	Point on shape: (339.02 200.15)  Net: GND
+	Point on shape: (532.00 112.98)  Net: GND
+	Point on shape: (454.52 1556.98)  Net: GND
+	Point on shape: (1167.55 1164.98)  Net: GND
+	Point on shape: (916.02 911.95)  Net: GND
+	Point on shape: (1827.01 894.20)  Net: GND
+	Point on shape: (1845.02 737.36)  Net: GND
+	Point on shape: (1095.08 312.00)  Net: GND
+	Point on shape: (1758.41 641.96)  Net: GND
+
+    Layer = BOTTOM
+	Point on shape: (855.10 1064.98)  Net: GND
+	Point on shape: (1250.52 1045.48)  Net: GND
+	Point on shape: (1441.52 1017.20)  Net: GND
+	Point on shape: (907.74 1014.36)  Net: GND
+	Point on shape: (755.15 996.98)  Net: GND
+	Point on shape: (1743.94 736.69)  Net: GND
+	Point on shape: (911.52 450.34)  Net: GND
+	Point on shape: (941.52 400.12)  Net: GND

@@ -1,0 +1,32 @@
+
+
+NET "clk_50m" IOSTANDARD = LVCMOS33;
+
+
+NET "clk_50m" LOC = P56;
+NET "led" LOC = P143;
+
+
+NET "led" IOSTANDARD = LVCMOS33;
+
+
+NET "CCD_ICG" LOC = P9;
+NET "CCD_Master" LOC = P11;
+NET "CCD_SH" LOC = P10;
+
+
+NET "CCD_Master" IOSTANDARD = LVCMOS33;
+NET "CCD_ICG" IOSTANDARD = LVCMOS33;
+NET "CCD_SH" IOSTANDARD = LVCMOS33;
+
+NET "UART_TXD" LOC = P32;
+
+NET "UART_TXD" IOSTANDARD = LVCMOS33;
+
+# PlanAhead Generated IO constraints 
+
+NET "UART_RXD" IOSTANDARD = LVCMOS33;
+
+# PlanAhead Generated physical constraints 
+
+NET "UART_RXD" LOC = P33;

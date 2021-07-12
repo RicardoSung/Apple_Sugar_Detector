@@ -1,0 +1,121 @@
+\t (00:00:06) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Mon Jul 12 10:24:08 2021
+\t (00:00:06)         Host=DESKTOP-TVB2D8N User=Ricardo Pid=2480 CPUs=24
+\t (00:00:06) CmdLine= D:\OrCAD\Cadence\Cadence_SPB_17.4-2019\tools\bin\allegro.exe
+\t (00:00:06) 
+   (00:00:07) Loading axlcore.cxt 
+   (00:00:07) function xFormBegin redefined
+   (00:00:07) function xFormEnd redefined
+   (00:00:07) function xCheckList redefined
+   (00:00:07) function xGroup redefined
+   (00:00:07) function xText redefined
+   (00:00:07) function xButton redefined
+   (00:00:07) function xEdit redefined
+   (00:00:07) function xInfoText redefined
+\t (00:00:08) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "fpga_ccd_3_with_logo"
+\d (00:00:08) Design opened: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/fpga_ccd_3_with_logo.brd
+   (00:00:08) Loading cmds.cxt 
+\t (00:00:08) Grids are drawn 64.00, 64.00 apart for enhanced viewing.
+\i (00:00:08) trapsize 4618
+\i (00:00:08) trapsize 4705
+\i (00:00:08) trapsize 4722
+\t (00:00:08) Grids are drawn 64.00, 64.00 apart for enhanced viewing.
+\i (00:00:08) trapsize 4459
+\i (00:00:08) trapsize 4513
+\i (00:00:08) trapsize 4586
+\t (00:00:08) > Sending response DoneOpenBoard
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 3531.33 8668.70
+\t (00:00:10) Grids are drawn 32.00, 32.00 apart for enhanced viewing.
+\i (00:00:10) trapsize 2293
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 3590.96 8746.66
+\t (00:00:10) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:10) trapsize 1147
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 5083.75 9661.61
+\t (00:00:11) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:00:11) trapsize 573
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 5196.11 9681.10
+\t (00:00:11) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:00:11) trapsize 287
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 5515.99 9632.37
+\t (00:00:12) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:00:12) trapsize 573
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 5515.99 9632.38
+\t (00:00:13) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:13) trapsize 1147
+\i (00:00:15) roam start
+\i (00:00:16) roam x 16
+\i (00:00:16) roam y 16
+\i (00:00:16) roam y 16
+\i (00:00:16) roam x 16
+\i (00:00:16) roam y 32
+\i (00:00:16) roam y 16
+\i (00:00:16) roam y 16
+\i (00:00:16) roam y 16
+\i (00:00:16) roam x -16
+\i (00:00:16) roam y 16
+\i (00:00:16) roam y 16
+\i (00:00:16) roam y 16
+\i (00:00:16) roam x -16
+\i (00:00:16) roam y 16
+\i (00:00:17) roam end
+\i (00:00:18) roam start
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam end
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 6498.58 8615.09
+\t (00:00:19) Grids are drawn 32.00, 32.00 apart for enhanced viewing.
+\i (00:00:19) trapsize 2293
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 4609.08 8766.43
+\t (00:00:20) Grids are drawn 16.00, 16.00 apart for enhanced viewing.
+\i (00:00:20) trapsize 1147
+\i (00:31:10) 3d 
+\i (00:31:11) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
+\i (00:31:25) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:31:52) QtSignal pcb3dExport AQFileDialog finished 1
+\i (00:31:52) QtFillin "C:/Users/Ricardo/Desktop/??????/pcb.png"
+\i (00:32:33) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 408 265 1845 692 1 1 +
+\i (00:32:33) QtSignal 0 "5141.37" "8485.06" "94.4088"
+\i (00:32:33) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 408 265 1845 692 1 +
+\i (00:32:33) QtSignal 0 0 "5141.37" "8485.06" "94.4088"
+\i (00:32:33) QtSignal pcb3d_MapperTab packageDeviceList itemSelectionChanged "TQG144_XIL"
+\i (00:32:33) QtSignal pcb3d_MapperTab packageDeviceList currentRowChanged 13
+\i (00:32:35) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:32:44) QtSignal pcb3dExport AQFileDialog finished 1
+\i (00:32:44) QtFillin "F:/PCB/Cadence_PCB/FPGA_CCD/allegro/test.png"
+\i (00:32:57) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 544 330 1981 757 1 1 +
+\i (00:32:57) QtSignal 0 5537 "8728.13" "-92.4371"
+\i (00:32:57) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 544 330 1981 757 1 +
+\i (00:32:57) QtSignal 0 0 5537 "8728.13" "-92.4371"
+\i (00:32:57) QtSignal pcb3d_MapperTab packageDeviceList itemSelectionChanged
+\i (00:32:57) QtSignal pcb3d_MapperTab packageDeviceList currentRowChanged "-1"
+\i (00:32:57) QtSignal pcb3d_MapperTab packageDeviceList itemSelectionChanged "TQG144_XIL"
+\i (00:32:57) QtSignal pcb3d_MapperTab packageDeviceList currentRowChanged 13
+\i (00:33:00) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:33:06) QtSignal pcb3dExport AQFileDialog finished 1
+\i (00:33:06) QtFillin "F:/PCB/Cadence_PCB/FPGA_CCD/allegro/test.png"
+\i (00:33:34) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 48 195 1485 622 1 1 0 +
+\i (00:33:34) QtSignal "4213.89" "7721.87" "295.628"
+\i (00:33:34) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 49 195 1486 622 1 0 +
+\i (00:33:34) QtSignal 0 "4216.24" "7724.22" "295.628"
+\i (00:33:35) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:47:21) exit 
+\e (00:47:21) Do you want to save the changes you made to fpga_ccd_3_with_logo.brd?
+\i (00:47:22) fillin no 
+\t (00:47:23)     Journal end - Mon Jul 12 11:11:25 2021

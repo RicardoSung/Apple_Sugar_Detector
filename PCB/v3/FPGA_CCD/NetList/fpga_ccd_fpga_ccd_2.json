@@ -1,0 +1,31 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "3V3",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\3V3\\",
+			"Logical" : null,
+			"Physical" : "3V3"
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "R6.1",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS28334\\@d.s(v):\\1\\",
+			"Logical" : "+3.3V",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U4.3",
+			"C_PATH" : "@\\FPGA_CCD\\.\\SCHEMATIC1\\(sch_1):\\INS28290\\@d.s(v):\\W-\\",
+			"Logical" : "+3.3V",
+			"Physical" : "3V3"
+		}
+	]
+}

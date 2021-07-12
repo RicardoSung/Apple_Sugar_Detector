@@ -1,0 +1,14 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Jul 11 21:33:35 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "UART_RXD" LOCATE = SITE "P33" LEVEL 1;
+COMP "UART_TXD" LOCATE = SITE "P32" LEVEL 1;
+COMP "led" LOCATE = SITE "P143" LEVEL 1;
+COMP "CCD_Master" LOCATE = SITE "P11" LEVEL 1;
+COMP "clk_50m" LOCATE = SITE "P56" LEVEL 1;
+COMP "CCD_SH" LOCATE = SITE "P10" LEVEL 1;
+COMP "CCD_ICG" LOCATE = SITE "P9" LEVEL 1;
+SCHEMATIC END;
+

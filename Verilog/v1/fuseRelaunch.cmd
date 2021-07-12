@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/FPGA_Xilinx/ISE/CCD/HT_Serial_Interface_isim_beh.exe" -prj "E:/FPGA_Xilinx/ISE/CCD/HT_Serial_Interface_beh.prj" "work.HT_Serial_Interface" "work.glbl" 

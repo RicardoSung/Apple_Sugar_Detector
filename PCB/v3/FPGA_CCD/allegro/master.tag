@@ -1,0 +1,1 @@
+fpga_ccd_3_with_logo.brd

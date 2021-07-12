@@ -1,0 +1,37 @@
+Reading Layer Conversion File 
+Reading DXF file...
+done.
+NOTE: Ignoring unsupported element SPLINE on line 594.
+NOTE: Ignoring unsupported element SPLINE on line 656.
+NOTE: Ignoring unsupported element SPLINE on line 718.
+NOTE: Ignoring unsupported element SPLINE on line 780.
+NOTE: Ignoring unsupported element SPLINE on line 842.
+NOTE: Ignoring unsupported element SPLINE on line 904.
+NOTE: Ignoring unsupported element SPLINE on line 966.
+NOTE: Ignoring unsupported element SPLINE on line 1028.
+NOTE: Ignoring unsupported element SPLINE on line 1130.
+NOTE: Ignoring unsupported element SPLINE on line 1192.
+NOTE: Ignoring unsupported element SPLINE on line 1294.
+NOTE: Ignoring unsupported element SPLINE on line 1356.
+NOTE: Ignoring unsupported element SPLINE on line 1418.
+NOTE: Ignoring unsupported element SPLINE on line 1520.
+NOTE: Ignoring unsupported element SPLINE on line 1622.
+NOTE: Ignoring unsupported element SPLINE on line 1684.
+NOTE: Ignoring unsupported element SPLINE on line 1746.
+NOTE: Ignoring unsupported element SPLINE on line 1808.
+NOTE: Ignoring unsupported element SPLINE on line 1870.
+NOTE: Ignoring unsupported element SPLINE on line 1932.
+NOTE: Ignoring unsupported element SPLINE on line 2016.
+NOTE: Ignoring unsupported element SPLINE on line 2078.
+NOTE: Ignoring unsupported element SPLINE on line 2140.
+NOTE: Ignoring unsupported element SPLINE on line 2202.
+NOTE: Ignoring unsupported element SPLINE on line 2264.
+Layer conversion file: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/logo_l.cnv
+DXF file: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/logo.dxf
+BRD file: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/#Taaaaah22748.tmp
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILS
+Design units: MILS
+Design precision: 4
+dxf2a complete.

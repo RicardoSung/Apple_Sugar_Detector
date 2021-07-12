@@ -1,0 +1,66 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Mon Jun 21 22:32:21 2021
+# 
+# Allegro PCB Router v17-4-0 made 2021/02/21 at 12:48:59
+# Running on: desktop-tvb2d8n, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Batch File Name: pasde.do
+# Did File Name: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/specctra.did
+# Current time = Mon Jun 21 22:32:21 2021
+# PCB F:/PCB/Cadence_PCB/FPGA_CCD/allegro
+# Master Unit set up as: MIL 1000
+# PCB Limits xlo=4156.9000 ylo=7175.3500 xhi=6425.1000 yhi=10049.6500
+# Total 79 Images Consolidated.
+# Via VIA z=1, 2 xlo=-12.0000 ylo=-12.0000 xhi= 12.0000 yhi= 12.0000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# <<WARNING:>> Potential non fixed positive shape alignment with the host CAD system exists.
+#              Allegro PCB Router does not perform any operations to remove or identify slivers and isolations.
+#              If the host CAD system performs such an operation, the user may experience unrouted
+#              or DRC alignment issues.
+#              The user must perform final unrouted/DRC validation within the host CAD system.
+# Wires Processed 279, Vias Processed 69
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Layers Processed: Power Layers 2
+# Components Placed 93, Images Processed 106, Padstacks Processed 20
+# Nets Processed 81, Net Terminals 417
+# PCB Area=5388006.000  EIC=30  Area/EIC=179600.200  SMDs=91
+# Total Pin Count: 429
+# Net +3.3V uses split power plane.
+# Signal Connections Created 7
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Nets 81 Connections 238 Unroutes 53
+# Signal Layers 2 Power Layers 2
+# Wire Junctions 23, at vias 17 Total Vias 69
+# Percent Connected    0.00
+# Manhattan Length 30571.9220 Horizontal 12879.1960 Vertical 17692.7260
+# Routed Length 37403.2994 Horizontal 19599.2300 Vertical 21579.1100
+# Ratio Actual / Manhattan   1.2235
+# Unconnected Length 2649.3500 Horizontal 1524.8700 Vertical 1124.4800
+# Total Conflicts: 173 (Cross: 0, Clear: 173, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3_rules.do ...
+# Nets 'USB_D-' and USB_D+ have been defined as a balanced pair.
+# Colormap Written to File _notify.std
+# Enter command <quit

@@ -1,0 +1,3 @@
+verilog work "HT_Serial_Com.v"
+verilog work "HT_Serial_Interface.v"
+verilog work "D:/Xilinx_ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

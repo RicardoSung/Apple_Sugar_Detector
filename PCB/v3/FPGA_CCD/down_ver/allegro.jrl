@@ -1,0 +1,17 @@
+\t (00:00:02) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Jun 18 11:23:38 2021
+\t (00:00:02)         Host=DESKTOP-TVB2D8N User=Ricardo Pid=12640 CPUs=24
+\t (00:00:02) CmdLine= D:\OrCAD\Cadence\Cadence_SPB_17.4-2019\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:06) generaledit 
+\i (00:00:21) trapsize 654
+\i (00:00:21) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:21) opencd F:/PCB/Cadence_PCB/FPGA_CCD/allegro/fpga_ccd_3.brd 
+\t (00:00:21) Opening existing design...
+\t (00:00:21) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:00:21) trapsize 932
+\t (00:00:21) > Sending response DoneOpenBoard
+\t (00:00:21)     Journal end - Fri Jun 18 11:23:56 2021

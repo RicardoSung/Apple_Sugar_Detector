@@ -1,0 +1,907 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Jun-16-2021 at 18:57:53 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='FPGA_CCD';
+ POST_TIME='Apr 19 2021 16:22:31';
+ SOURCE_TOOL='CAPTURE_WRITER_5X';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS30745@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30745\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins30745\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS24248@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24248\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins24248\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27078@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27078\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27078\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS30841@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30841\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins30841\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27434@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27434\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27434\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS24968@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24968\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins24968\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS30873@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30873\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins30873\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27198@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27198\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27198\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27494@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27494\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27494\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27218@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27218\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27218\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27118@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27118\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27118\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS24288@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24288\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins24288\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS26690@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS26690\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins26690\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27604@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27604\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27604\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27158@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27158\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27158\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27474@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27474\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27474\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS25676@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS25676\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins25676\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27178@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27178\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27178\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS30969@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30969\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins30969\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27454@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27454\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27454\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS29755@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS29755\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins29755\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS31044@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS31044\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins31044\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS24308@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24308\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins24308\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS31209@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS31209\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins31209\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS35838@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS35838\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins35838\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS36213@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS36213\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins36213\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS36375@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS36375\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins36375\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS39800@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS39800\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins39800\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS39826@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS39826\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins39826\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS39859@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS39859\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins39859\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_0603_DISCRETE_10UF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS39885@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS39885\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins39885\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS40025@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS40025\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins40025\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27534@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27534\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27534\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS26710@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS26710\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins26710\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27258@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27258\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27258\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS23538@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS23538\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins23538\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS26758@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS26758\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins26758\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27278@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27278\@\DISCRETE\.\CAP NP.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27278\@\discrete\.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 'TCD1304DG_8Z,AW__DIP1016W62P254L4160H372Q22N_TCD1304DG_8Z_AW_':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS44187@RETHINKERSLIB.TCD1304DG_8Z,AW_.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS44187\@\RETHINKERSLIB\.\TCD1304DG_8Z,AW_.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins44187\@\rethinkerslib\.\tcd1304dg_8z,aw_.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN SOCKET 7X2_CONN_BULK_HEADER_2X7_2_2_CONN SOCKET 7X2':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27366@CONNECTOR.CONN SOCKET 7X2.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27366\@\CONNECTOR\.\CONN SOCKET 7x2.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27366\@\connector\.\conn socket 7x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'USB-C 16PIN_SHENZHEN-CHUANGQIN-TECHNOLO_CQ-USB-C16PSMT01':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS48344@RETHINKERSLIB.USB-C 16PIN.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS48344\@\RETHINKERSLIB\.\USB-C 16pin.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins48344\@\rethinkerslib\.\usb-c 16pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '2N6520_SOT23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS45139@TRANSISTOR.2N6520.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45139\@\TRANSISTOR\.\2N6520.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins45139\@\transistor\.\2n6520.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_0603_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27514@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27514\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27514\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_0603_DISCRETE_NC':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS41342@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS41342\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins41342\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS42667@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42667\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins42667\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS42683@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42683\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins42683\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS42699@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42699\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins42699\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS42715@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42715\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins42715\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS42731@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42731\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins42731\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS42747@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42747\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins42747\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS42763@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42763\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins42763\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS42779@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42779\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins42779\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS43196@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43196\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins43196\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_0603_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27346@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27346\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27346\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS43234@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43234\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins43234\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS43272@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43272\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins43272\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS43606@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43606\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins43606\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS43653@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43653\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins43653\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS43689@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43689\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins43689\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_0603_DISCRETE_150R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS45093@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45093\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins45093\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_0603_DISCRETE_150R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS45200@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45200\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins45200\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_0603_DISCRETE_150R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS45354@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45354\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins45354\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS46142@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS46142\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins46142\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS46206@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS46206\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins46206\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_0603_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27298@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27298\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27298\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_0603_DISCRETE_33R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS46286@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS46286\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins46286\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_0603_DISCRETE_5.1K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS49282@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS49282\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins49282\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_0603_DISCRETE_5.1K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS49548@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS49548\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins49548\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_0603_DISCRETE_45R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS50135@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS50135\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins50135\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_0603_DISCRETE_45R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS50197@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS50197\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins50197\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_0603_DISCRETE_1K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS75104@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS75104\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins75104\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RESISTOR_0603_DISCRETE_0R':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS79334@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS79334\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins79334\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'RESISTOR_0603_DISCRETE_NC':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS79360@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS79360\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins79360\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'RESISTOR_0603_DISCRETE_NC':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS79386@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS79386\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins79386\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'RESISTOR_0603_DISCRETE_1K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS79412@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS79412\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins79412\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_0603_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27554@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27554\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27554\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_0603_DISCRETE_33':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS24328@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24328\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins24328\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES 0603_0603_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS28334@D.S(V)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS28334\@d.s(v)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins28334\@d.s(v)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_0603_DISCRETE_33':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS28354@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS28354\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins28354\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_0603_DISCRETE_33':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS89324@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS89324\@\DISCRETE\.\RESISTOR.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins89324\@\discrete\.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_0603_DISCRETE_NC':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS41316@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS41316\@\DISCRETE\.\R.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins41316\@\discrete\.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'XC6SLX9-2TQG144C_TQG144_XIL_XC6SLX9-2TQG144C_A':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS16879@D.S(V)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS16879\@d.s(v)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins16879\@d.s(v)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS26778@D.S(V)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS26778\@d.s(v)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins26778\@d.s(v)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U2 'AMS1117_SOT_AMS1117-2P5_AMS_AMS1117-1.2V':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS30761@D.S(V)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30761\@d.s(v)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins30761\@d.s(v)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'AMS1117_SOT_AMS1117-2P5_AMS_AMS1117-3.3V':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS30889@D.S(V)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30889\@d.s(v)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins30889\@d.s(v)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'M25P16-VMN6TPBA_SOIC8_M25P16-VMN6TPBA':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS28290@D.S(V)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS28290\@d.s(v)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins28290\@d.s(v)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'CH340E_MSOP-10_CH340E':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS29876@RETHINKERSLIB.CH340E.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS29876\@\RETHINKERSLIB\.\CH340E.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins29876\@\rethinkerslib\.\ch340e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'HT82V38_SSOP-28_HT82V38':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS31651@RETHINKERSLIB.HT82V38.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS31651\@\RETHINKERSLIB\.\HT82V38.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins31651\@\rethinkerslib\.\ht82v38.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'TC7WH14FU_SSOP-8_TC7WH14FU':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS45869@RETHINKERSLIB.TC7WH14FU.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45869\@\RETHINKERSLIB\.\TC7WH14FU.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page3_ins45869\@\rethinkerslib\.\tc7wh14fu.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'OSCILLATOR 4P_SMD7050_50MHZ':;
+
+SECTION_NUMBER 1
+ '@FPGA_CCD.SCHEMATIC1(SCH_1):INS27318@RETHINKERSLIB.OSCILLATOR 4P.NORMAL(CHIPS)':
+ C_PATH='@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27318\@\RETHINKERSLIB\.\Oscillator 4p.Normal\(chips)',
+ P_PATH='@\fpga_ccd\.\schematic1\(sch_1):\page2_ins27318\@\rethinkerslib\.\oscillator 4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

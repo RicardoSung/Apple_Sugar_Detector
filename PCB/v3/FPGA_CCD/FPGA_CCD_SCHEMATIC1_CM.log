@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------
+                               ORCAD CM MIGRATION
+--------------------------------------------------------------------------------
+F:\PCB\CADENCE_PCB\FPGA_CCD\FPGA_CCD.DSN                                        
+2021-06-14 at 15:58:51                                                          
+--------------------------------------------------------------------------------
+	Number of DiffPair Migrated                                : 0
+	Number of XNET Migrated                                    : 23
+	Number of Pin Constraints Migrated                         : 0
+	Number of Net Constraints Migrated                         : 0
+	Number of Physical Class Added                             : 0
+	Number of Spacing Class Added                              : 0
+	Number of Electrical CSET Added                            : 0
+	Number of Warning Encountered                              : 0
+--------------------------------------------------------------------------------
+.XNET: 
+	ADCCLK                                  ADCCLK,N43709
+	CCD_ICG                                 CCD_ICG,N45930
+	CCD_MASTER                              CCD_MASTER,N46162
+	CCD_OS                                  CCD_OS,N41358,N41362
+	CCD_SH                                  CCD_SH,N46224
+	CDSCLK1                                 CDSCLK1,N43637
+	CDSCLK2                                 CDSCLK2,N43673
+	CLK_50M                                 CLK_50M,N10342
+	D0_34339                                D0_34339,N42823
+	D1_34345                                D1_34345,N42829
+	D2_34351                                D2_34351,N42835
+	D3_34357                                D3_34357,N42817
+	D4_34363                                D4_34363,N42805
+	D5_34369                                D5_34369,N42799
+	D6_34375                                D6_34375,N42811
+	D7_34381                                D7_34381,N42841
+	N39901                                  N39901,N39920
+	N45186                                  N45080,N45186
+	SCLK                                    N39538,SCLK
+	SDATA                                   N39540,SDATA
+	SLOAD                                   N39536,SLOAD
+	SPI_FLASH_CLK                           N10673,SPI_FLASH_CLK
+	SPI_FLASH_MISO                          N10587,SPI_FLASH_MISO
+--------------------------------------------------------------------------------

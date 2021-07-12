@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Automatic B/B Via Creation                               )
+(                                                                     )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Fri Jun 18 01:47:26 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Via to be copied: Via
+Start subclass: TOP
+End subclass: TOP
+Old drawing: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/#Taaaaas09232.tmp
+New drawing: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/#Taaaaas09232.tmp
+Vias added to physical constraint set: DEFAULT
+
+*ERROR: Start and end layers cannot be the same.
+
+bbvia failed.

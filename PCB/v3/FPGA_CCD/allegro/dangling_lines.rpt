@@ -1,0 +1,49 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : fpga_ccd_3_with_logo.brd                      )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Mon Jul 12 10:55:14 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  GND                  BOTTOM                  0.50     *(6012.00 8284.00) to  (6012.00 8284.50)
+  +5V                  BOTTOM                  1.00      (4800.49 7752.49) to *(4799.49 7752.49)
+  +3.3V                TOP                     1.00     *(5103.50 8040.50) to  (5103.50 8041.50)
+  +3.3V                BOTTOM                  0.68      (5341.00 7897.68) to *(5341.68 7897.68)
+  +3.3V                BOTTOM                  0.50      (4657.00 9765.50) to *(4657.00 9766.00)
+  TDO_F                BOTTOM                  1.24      (5719.12 8860.12) to *(5720.00 8861.00)
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  +5V                  VIA                  (4894.00 8053.50) TOP/BOTTOM 
+  +5V                  VIA                  (4611.51 7752.51) TOP/BOTTOM 
+  +3.3V                VIA                  (4702.75 9246.00) TOP/BOTTOM 
+  +3.3V                VIA                  (5368.50 8055.00) TOP/BOTTOM 
+  +3.3V                VIA                  (5556.50 8292.00) TOP/BOTTOM 
+  +3.3V                VIA                  (5417.00 7527.60) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       6
+  Total dangling vias:        0
+  Total antenna vias:         6

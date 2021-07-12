@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\FPGA_Xilinx\ISE\CCD\top.ncd
+OUTFILE=E:\FPGA_Xilinx\ISE\CCD\top.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=E:\FPGA_Xilinx\ISE\CCD
+LICENSE=WebPack
+USER_INFO=__0_0_0

@@ -1,0 +1,28 @@
+Command line:
+   HT_Serial_Interface_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58815
+
+Sun Jul 11 18:05:31 2021
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5160.58 Meg
+
+ Total Signals          : 25
+ Total Nets             : 44
+ Total Signal Drivers   : 13
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 22
+ Total Traceable Variables  : 38
+ Total Scalar Nets and Variables : 352
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5475.16 Meg
+
+Sun Jul 11 18:06:22 2021
+

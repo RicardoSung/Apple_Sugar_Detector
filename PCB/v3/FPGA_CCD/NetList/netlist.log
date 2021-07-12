@@ -1,0 +1,20 @@
+{ Using PSTWRITER 17.4.0 d001Jun-22-2021 at 11:57:44 }
+
+#1 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#A4_B9" as visible power pin of same name already exists in Package USB-C 16pin , J2: SCHEMATIC1, 03 Com (6.40, 6.20).
+#2 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A1_B12" as visible power pin of same name already exists in Package USB-C 16pin , J2: SCHEMATIC1, 03 Com (6.40, 6.20).
+#3 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#B4_A9" as visible power pin of same name already exists in Package USB-C 16pin , J2: SCHEMATIC1, 03 Com (6.40, 6.20).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B1_A12" as visible power pin of same name already exists in Package USB-C 16pin , J2: SCHEMATIC1, 03 Com (6.40, 6.20).
+#5 WARNING(ORCAP-36042): Pin "AVDD" is renamed to "AVDD#28" as visible power pin of same name already exists in Package HT82V38 , U6: SCHEMATIC1, 03 Com (9.70, 0.80).
+#6 WARNING(ORCAP-36042): Pin "AVSS" is renamed to "AVSS#27" as visible power pin of same name already exists in Package HT82V38 , U6: SCHEMATIC1, 03 Com (9.70, 0.80).
+#7 WARNING(ORCAP-36042): Pin "AVSS" is renamed to "AVSS#19" as visible power pin of same name already exists in Package HT82V38 , U6: SCHEMATIC1, 03 Com (9.70, 0.80).
+#8 WARNING(ORCAP-36042): Pin "AVDD" is renamed to "AVDD#18" as visible power pin of same name already exists in Package HT82V38 , U6: SCHEMATIC1, 03 Com (9.70, 0.80).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... F:\PCB\Cadence_PCB\FPGA_CCD\NetList\pstchip.dat
+
+Loading... F:\PCB\Cadence_PCB\FPGA_CCD\NetList\pstchip.dat
+
+Loading... F:\PCB\Cadence_PCB\FPGA_CCD\NetList\pstxprt.dat
+
+Loading... F:\PCB\Cadence_PCB\FPGA_CCD\NetList\pstxnet.dat
+packaging the design view...

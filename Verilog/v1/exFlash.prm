@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.20131013
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o E:\FPGA_Xilinx\ISE\CCD\//exFlash -s 2048 -u 0000 E:/FPGA_Xilinx/ISE/CCD/top.bit -spi 
+
+PROM E:\FPGA_Xilinx\ISE\CCD\exFlash.prm map: Sun Jul 11 21:35:12 2021
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          2048K
+PROM start    0000:0000
+PROM end      001f:ffff
+PROM checksum 1abb3d24
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0005:327b     Jul 11 21:34:37 2021 E:/FPGA_Xilinx/ISE/CCD/top.bit

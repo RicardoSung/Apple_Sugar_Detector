@@ -1,0 +1,22 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character - with X in Filled-1.
+NOTE: Replacing illegal character * with X in *I5.
+NOTE: Replacing illegal character * with X in *I6.
+NOTE: Replacing illegal character * with X in *I7.
+done.
+NOTE: Ignoring unsupported element VIEWPORT on line 8216.
+NOTE: Ignoring unsupported element ACIDBLOCKREFERENCE on line 8336.
+NOTE: Ignoring unsupported element ACIDBLOCKREFERENCE on line 8470.
+NOTE: Ignoring unsupported element ACIDBLOCKREFERENCE on line 8618.
+Layer conversion file: C:/Users/Ricardo/Desktop/light_l.cnv
+DXF file: C:/Users/Ricardo/Desktop/light.dxf
+BRD file: F:/PCB/Cadence_PCB/FPGA_CCD/allegro/#Taaaaar49096.tmp
+Update existing design?: YES
+Use default text?: YES
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 4
+dxf2a complete.

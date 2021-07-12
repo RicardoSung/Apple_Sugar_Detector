@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/OrCAD/Cadence/Cadence_SPB_17.4-2019/share/pcb/consmgr/VDD/report/treeview.xsl"?>
+<ConstraintDifferenceReport Path="file:///D:/OrCAD/Cadence/Cadence_SPB_17.4-2019/share/pcb/consmgr/VDD/report/rc" Status="no-change" Type="Constraint Difference Report">
+
+  <RptSummary Col1="Layout" Col2="Schematic">
+    <Entry Name="Report time">Tue Jun 22 11:57:54 2021
+</Entry>
+    <Entry Name="Software version">17.4 (S017)</Entry>
+    <Entry Name="Layout">F:\PCB\Cadence_PCB\FPGA_CCD\allegro\fpga_ccd_3.brd</Entry>
+    <Entry Name="Schematic">F:\PCB\cadence_pcb\FPGA_CCD\NetList\pstcmdb.dat</Entry>
+    <Entry Name="Baseline File">F:\PCB\Cadence_PCB\FPGA_CCD\Garber\#Taaaaaf08036.tmp</Entry>
+    <Entry Name="Destination design updated">Yes</Entry>
+    <Entry Name="Update Mode">Diff3</Entry>
+    <Entry Name="Constraint Information">Electrical, NetClasses, Properties</Entry>
+  </RptSummary>
+
+  <Tree>
+    <Item Filter="0x1" Name="Summary" Ref="main-summary"/>
+  </Tree>
+
+  <Summaries>
+    <MainSummary ID="main-summary"/>
+  </Summaries>
+
+  <Layers>
+    <Layer Name="TOP" Type="Conductor"/>
+    <Layer Name="GND" Type="Plane"/>
+    <Layer Name="POWER" Type="Plane"/>
+    <Layer Name="BOTTOM" Type="Conductor"/>
+  </Layers>
+
+  <GenericLayers>
+    <Layer Name="Conductor"/>
+    <Layer Name="Plane"/>
+  </GenericLayers>
+
+</ConstraintDifferenceReport>

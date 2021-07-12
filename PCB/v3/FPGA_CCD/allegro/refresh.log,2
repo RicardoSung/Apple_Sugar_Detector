@@ -1,0 +1,115 @@
+Thu Jul  1 16:29:03 2021				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Thu Jul  1 16:29:03 2021
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : fpga_ccd_3_with_logo.brd                      )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Thu Jul  1 16:29:04 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Jul  1 16:29:04 2021				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'F:/PCB/Cadence_PCB/FPGA_CCD/allegro/fpga_ccd_3_with_logo.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/local/pcb/symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/pcb/pcb_lib/symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/pcb/allegrolib/symbols 
+           D:/OrCAD/Cadence/Cadence_SPB_17.4-2019/share/local/pcb/symbols 
+           F:/PCB/lib/Cadence_lib/Download 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/local/pcb/padstacks 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/pcb/pcb_lib/symbols 
+           d:/orcad/cadence/cadence_spb_17.4-2019/share/pcb/allegrolib/symbols 
+           D:/OrCAD/Cadence/Cadence_SPB_17.4-2019/share/local/pcb/padstacks 
+           F:/PCB/lib/Cadence_lib/Download 
+
+
+------ Symbol Refresh Messages ------
+
+'TB00650802BE'  symbol refreshed successfully.
+'0805'  symbol refreshed successfully.
+'SOT_AMS1117-2P5_AMS'  symbol refreshed successfully.
+'CONN_BULK_HEADER_2X7_2_2'  symbol refreshed successfully.
+'MSOP-10'  symbol refreshed successfully.
+'SHENZHEN-CHUANGQIN-TECHNOLO'  symbol refreshed successfully.
+'SOIC8'  symbol refreshed successfully.
+'SMD7050'  symbol refreshed successfully.
+'SOT23'  symbol refreshed successfully.
+'SSOP-28'  symbol refreshed successfully.
+'SSOP-8'  symbol refreshed successfully.
+'0603'  symbol refreshed successfully.
+'DIP1016W62P254L4160H372Q22N'  symbol refreshed successfully.
+'TQG144_XIL'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'RX11Y53P5D0T'  pad stack refreshed successfully.
+'S_R170T48D2M170_48P170_48'  pad stack refreshed successfully.
+'S_R30_100'  pad stack refreshed successfully.
+'RX39P5Y14D0T'  pad stack refreshed successfully.
+'S122_H82'  pad stack refreshed successfully.
+'H_C65'  pad stack refreshed successfully.
+'RX35Y58D0T'  pad stack refreshed successfully.
+'S_R30T130M30_130P30_130'  pad stack refreshed successfully.
+'C195_H130'  pad stack refreshed successfully.
+'T_L60_105SL_210_M210_105'  pad stack refreshed successfully.
+'R180_160'  pad stack refreshed successfully.
+'R145_105'  pad stack refreshed successfully.
+'S_R60T130M60_130P60_130'  pad stack refreshed successfully.
+'C122_H82'  pad stack refreshed successfully.
+'R94_54'  pad stack refreshed successfully.
+'RX126Y58D0T'  pad stack refreshed successfully.
+'SMD20_17'  pad stack refreshed successfully.
+'T_L60_80SL_160_M160_80'  pad stack refreshed successfully.
+'08_BULK_HEADER'  pad stack refreshed successfully.
+'SMD50_25'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 14 out 14
+    Design updated.
+

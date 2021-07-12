@@ -1,0 +1,327 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router v17-4-0 made 2021/02/21 at 12:48:59
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : F:/PCB/Cadence_PCB/FPGA_CCD/allegro\fpga_ccd_3.dsn
+# Initialization options:
+#   -do pasde.do
+# Status File Name : F:/PCB/Cadence_PCB/FPGA_CCD/allegro\monitor.sts
+# -nog specified. Graphics not utilized.
+# -sim specified. Polygons simplified.
+# Use Colormap In Design File.
+#
+#
+#
+#
+# do $/fpga_ccd_3_rules.do
+define (class _netgrp_UART UART_RXD UART_TXD )
+define (class _netgrp_HT82V38_DOUT N42823 HT82V38_D0 N42829 HT82V38_D1 
+  N42835 HT82V38_D2 N42817 HT82V38_D3 
+  N42805 HT82V38_D4 N42799 HT82V38_D5 
+  N42811 HT82V38_D6 N42841 HT82V38_D7 )
+define (class _netgrp_HT82V38_COM N39538 SCLK N39540 SDATA 
+  N39536 SLOAD )
+define (class _netgrp_HT82V38_CLOCK N43709 ADCCLK N43637 CDSCLK1 
+  N43673 CDSCLK2 )
+define (class _netgrp_CCD_CLOCK CCD_ICG N45930 CCD_MASTER N46162 
+  CCD_SH N46224 )
+define (class _netgrp_FLASH_SPI SPI_FLASH_CLK N10673 SPI_FLASH_CSO N10587 
+  SPI_FLASH_MISO SPI_FLASH_MOSI )
+define (class _difpr_USB_D 'USB_D-' USB_D+ )
+define (pair (nets 'USB_D-' USB_D+ ))
+rule PCB (width 5)
+rule PCB (clearance 5 (type buried_via_gap))
+rule PCB (clearance 5 (type wire_wire))
+rule PCB (clearance 5 (type wire_smd))
+rule PCB (clearance 5 (type wire_pin))
+rule PCB (clearance 5 (type wire_via))
+rule PCB (clearance 5 (type smd_smd))
+rule PCB (clearance 5 (type smd_pin))
+rule PCB (clearance 5 (type smd_via))
+rule PCB (clearance 5 (type pin_pin))
+rule PCB (clearance 5 (type pin_via))
+rule PCB (clearance 5 (type via_via))
+rule PCB (clearance 5 (type test_test))
+rule PCB (clearance 5 (type test_wire))
+rule PCB (clearance 5 (type test_smd))
+rule PCB (clearance 5 (type test_pin))
+rule PCB (clearance 5 (type test_via))
+rule PCB (clearance 0 (type area_wire))
+rule PCB (clearance 0 (type area_smd))
+rule PCB (clearance 0 (type area_area))
+rule PCB (clearance 0 (type area_pin))
+rule PCB (clearance 0 (type area_via))
+rule PCB (clearance 0 (type area_test))
+rule PCB (clearance 5 (type microvia_microvia))
+set microvia_microvia on
+rule PCB (clearance 5 (type microvia_thrupin))
+set microvia_thrupin on
+rule PCB (clearance 5 (type microvia_smdpin))
+set microvia_smdpin on
+rule PCB (clearance 5 (type microvia_thruvia))
+set microvia_thruvia on
+rule PCB (clearance 5 (type microvia_bbvia))
+set microvia_bbvia on
+rule PCB (clearance 5 (type microvia_wire))
+set microvia_wire on
+rule PCB (clearance 5 (type bbvia_bbvia))
+set bbvia_bbvia on
+rule PCB (clearance 5 (type microvia_testpin))
+set microvia_testpin on
+rule PCB (clearance 5 (type bbvia_thrupin))
+set bbvia_thrupin on
+rule PCB (clearance 5 (type microvia_testvia))
+set microvia_testvia on
+rule PCB (clearance 5 (type bbvia_smdpin))
+set bbvia_smdpin on
+rule PCB (clearance 5 (type microvia_bondpad))
+set microvia_bondpad on
+rule PCB (clearance 5 (type bbvia_thruvia))
+set bbvia_thruvia on
+rule PCB (clearance 5 (type microvia_area))
+set microvia_area on
+rule PCB (clearance 5 (type bbvia_wire))
+set bbvia_wire on
+rule PCB (clearance 8 (type nhole_pin))
+set nhole_pin off
+rule PCB (clearance 8 (type nhole_via))
+set nhole_via off
+rule PCB (clearance 5 (type bbvia_area))
+set bbvia_area on
+rule PCB (clearance 8 (type nhole_wire))
+set nhole_wire off
+rule PCB (clearance 8 (type nhole_area))
+set nhole_area off
+rule PCB (clearance 8 (type nhole_nhole))
+set nhole_nhole off
+rule PCB (clearance 8 (type mhole_pin))
+set mhole_pin on
+rule PCB (clearance 5 (type bbvia_testpin))
+set bbvia_testpin on
+rule PCB (clearance 8 (type mhole_via))
+set mhole_via on
+rule PCB (clearance 5 (type bbvia_testvia))
+set bbvia_testvia on
+rule PCB (clearance 8 (type mhole_wire))
+set mhole_wire on
+rule PCB (clearance 8 (type mhole_area))
+set mhole_area on
+rule PCB (clearance 8 (type mhole_nhole))
+set mhole_nhole on
+rule PCB (clearance 8 (type mhole_mhole))
+set mhole_mhole on
+rule PCB (clearance 5 (type bbvia_bondpad))
+set bbvia_bondpad on
+rule PCB (clearance -1 same_net (type wire_wire))
+rule PCB (clearance -1 same_net (type wire_smd))
+rule PCB (clearance -1 same_net (type wire_pin))
+rule PCB (clearance -1 same_net (type wire_via))
+rule PCB (clearance -1 same_net (type smd_smd))
+rule PCB (clearance -1 same_net (type smd_pin))
+rule PCB (clearance -1 same_net (type smd_via))
+rule PCB (clearance -1 same_net (type pin_pin))
+rule PCB (clearance -1 same_net (type pin_via))
+rule PCB (clearance -1 same_net (type via_via))
+rule PCB (clearance -1 same_net (type test_test))
+rule PCB (clearance -1 same_net (type test_wire))
+rule PCB (clearance -1 same_net (type test_smd))
+rule PCB (clearance -1 same_net (type test_pin))
+rule PCB (clearance -1 same_net (type test_via))
+rule PCB (clearance 0 same_net (type area_wire))
+rule PCB (clearance 0 same_net (type area_smd))
+rule PCB (clearance 0 same_net (type area_area))
+rule PCB (clearance 0 same_net (type area_pin))
+rule PCB (clearance 0 same_net (type area_via))
+rule PCB (clearance 0 same_net (type area_test))
+rule PCB (clearance 5 same_net (type microvia_microvia))
+set microvia_microvia same_net off
+rule PCB (clearance 5 same_net (type microvia_thrupin))
+set microvia_thrupin same_net off
+rule PCB (clearance 5 same_net (type microvia_smdpin))
+set microvia_smdpin same_net off
+rule PCB (clearance 5 same_net (type microvia_thruvia))
+set microvia_thruvia same_net off
+rule PCB (clearance 5 same_net (type microvia_bbvia))
+set microvia_bbvia same_net off
+rule PCB (clearance 5 same_net (type microvia_wire))
+set microvia_wire same_net off
+rule PCB (clearance 5 same_net (type microvia_testpin))
+set microvia_testpin same_net off
+rule PCB (clearance 5 same_net (type microvia_testvia))
+set microvia_testvia same_net off
+rule PCB (clearance 5 same_net (type microvia_bondpad))
+set microvia_bondpad same_net off
+rule PCB (clearance 5 same_net (type microvia_area))
+set microvia_area same_net off
+rule PCB (clearance 8 same_net (type nhole_pin))
+set nhole_pin same_net off
+rule PCB (clearance 8 same_net (type nhole_via))
+set nhole_via same_net off
+rule PCB (clearance 8 same_net (type nhole_wire))
+set nhole_wire same_net off
+rule PCB (clearance 8 same_net (type nhole_area))
+set nhole_area same_net off
+rule PCB (clearance 8 same_net (type nhole_nhole))
+set nhole_nhole same_net off
+rule PCB (clearance 5 same_net (type bbvia_bbvia))
+set bbvia_bbvia same_net off
+rule PCB (clearance 5 same_net (type bbvia_thrupin))
+set bbvia_thrupin same_net off
+rule PCB (clearance 5 same_net (type bbvia_smdpin))
+set bbvia_smdpin same_net off
+rule PCB (clearance 5 same_net (type bbvia_thruvia))
+set bbvia_thruvia same_net off
+rule PCB (clearance 5 same_net (type bbvia_wire))
+set bbvia_wire same_net off
+rule PCB (clearance 5 same_net (type bbvia_area))
+set bbvia_area same_net off
+rule PCB (clearance 5 same_net (type bbvia_testpin))
+set bbvia_testpin same_net off
+rule PCB (clearance 5 same_net (type bbvia_testvia))
+set bbvia_testvia same_net off
+rule PCB (clearance 5 same_net (type bbvia_bondpad))
+set bbvia_bondpad same_net off
+rule pcb (tjunction on)(junction_type all)
+rule pcb (staggered_via on (min_gap 5))
+rule pcb (via_at_smd off)
+rule PCB (turn_under_pad off)
+rule layer TOP (restricted_layer_length_factor 1)
+rule layer BOTTOM (restricted_layer_length_factor 1)
+rule class _difpr_USB_D (diffpair_line_width 5)
+rule class _difpr_USB_D (neck_down_width 5)
+rule class _difpr_USB_D (min_line_spacing 4)
+define (drcv_group _DRgrp_USB_D+
+ (drcv U5-1 J2-B6 )
+)
+define (drcv_group '_DRgrp_USB_D-'
+ (drcv U5-2 J2-B7 )
+)
+define (drcv_groupset '_DRgrpset_USB_D+_USB_D-' _DRgrp_USB_D+ '_DRgrp_USB_D-')
+write colormap _notify.std
+# do F:/PCB/Cadence_PCB/FPGA_CCD/Garber/#Taaaagd01388.tmp
+unselect all routing
+select net M0
+select net M1
+select net HT82V38_D1
+select net HT82V38_D2
+select net HT82V38_D3
+select net HT82V38_D4
+select net HT82V38_D6
+select net HT82V38_D5
+select net SPI_FLASH_MOSI
+select net HT82V38_D7
+select net N45080
+select net SPI_FLASH_CLK
+select net CDSCLK2
+select net N00968
+select net N10342
+select net TDO_F
+select net N15645
+select net TDI_F
+select net CLK_50M
+select net SPI_FLASH_MISO
+select net TCK_F
+select net N14884
+select net N45186
+select net SPI_FLASH_CSO
+select net TMS_F
+select net N15354
+select net N45216
+select net CCD_OS
+select net N45901
+select net N45905
+select net N45930
+select net N10587
+select net N46162
+select net N46224
+select net CDSCLK1
+select net CCD_SH
+select net N46412
+select net CCD_MASTER
+select net CCD_ICG
+select net HT82V38_D0
+select net +1.2V
+select net +3.3V
+select net UART_RXD
+select net UART_TXD
+select net +5V
+select net N103518
+select net N29928
+select net N103582
+select net GND
+select net USB_D+
+select net N39901
+select net 'USB_D-'
+select net SCLK
+select net N39920
+select net N30939
+select net SLOAD
+select net SDATA
+select net N40100
+select net N30787
+select net N41358
+select net N41362
+select net N41426
+select net ADCCLK
+select net N49459
+select net N48976
+select net N49298
+select net N42841
+select net N42811
+select net N42799
+select net N42805
+select net N42817
+select net N42835
+select net N42829
+select net N42823
+select net N39536
+select net N39538
+select net N39540
+select net N43637
+select net N43673
+select net N43709
+select net N10673
+set route_diagonal 0
+grid wire 0.010000 (direction x) (offset 0.000000)
+grid wire 0.010000 (direction y) (offset 0.000000)
+grid via 0.010000 (direction x) (offset 0.000000)
+grid via 0.010000 (direction y) (offset 0.000000)
+protect all wires
+direction TOP horizontal
+select layer TOP
+protect layer_wires TOP
+direction BOTTOM vertical
+select layer BOTTOM
+protect layer_wires BOTTOM
+cost via -1
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+route 25 1
+clean 2
+miter 4 (style diagonal) (pin) (slant) (tjunction) (bend) (layer TOP BOTTOM)
+write routes (changed_only) (reset_changed) F:/PCB/Cadence_PCB/FPGA_CCD/Garber/#Taaaage01388.tmp
+# do F:/PCB/Cadence_PCB/FPGA_CCD/Garber/#Taaaagg01388.tmp
+unselect all objects
+select net GND
+select net N49459
+select net +3.3V
+select net +5V
+select net +1.2V
+unprotect selected
+delete selected
+unprotect selected polygon
+delete selected polygon
+unselect all objects
+read route F:/PCB/Cadence_PCB/FPGA_CCD/Garber/#Taaaagf01388.tmp
+quit -c

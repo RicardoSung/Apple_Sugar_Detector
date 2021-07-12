@@ -1,0 +1,92 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!f:/pcb/cadence_pcb/fpga_ccd/allegro/fpga_ccd_2.brd!Wed Jun 16 18:56:53 2021!0.00!0.00!21000.00!17000.00!0.01!mils!FPGA_CCD!10.400000 mil!2!OUT OF DATE!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30745\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C1!.\chipsView.dat!!!!!!F89!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30841\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C12!.\chipsView.dat!!!!!!F88!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30873\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C15!.\chipsView.dat!!!!!!F87!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27198\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C16!.\chipsView.dat!!!!!!F86!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24288\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C2!.\chipsView.dat!!!!!!F85!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30969\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C26!.\chipsView.dat!!!!!!F84!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS31044\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C29!.\chipsView.dat!!!!!!F83!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS31209\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C30!.\chipsView.dat!!!!!!F82!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS39885\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_10UF!C37!.\chipsView.dat!!!!!!F81!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24248\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C10!.\chipsView.dat!!!!!!F80!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27078\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C11!.\chipsView.dat!!!!!!F79!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27434\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C13!.\chipsView.dat!!!!!!F78!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24968\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C14!.\chipsView.dat!!!!!!F77!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27494\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C17!.\chipsView.dat!!!!!!F76!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27218\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C18!.\chipsView.dat!!!!!!F75!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27118\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C19!.\chipsView.dat!!!!!!F74!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS26690\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C20!.\chipsView.dat!!!!!!F73!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27604\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C21!.\chipsView.dat!!!!!!F72!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27158\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C22!.\chipsView.dat!!!!!!F71!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27474\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C23!.\chipsView.dat!!!!!!F70!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS25676\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C24!.\chipsView.dat!!!!!!F69!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27178\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C25!.\chipsView.dat!!!!!!F68!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27454\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C27!.\chipsView.dat!!!!!!F67!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS29755\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C28!.\chipsView.dat!!!!!!F66!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24308\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C3!.\chipsView.dat!!!!!!F65!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS35838\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C31!.\chipsView.dat!!!!!!F64!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS36213\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C32!.\chipsView.dat!!!!!!F63!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS36375\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C33!.\chipsView.dat!!!!!!F62!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS39800\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C34!.\chipsView.dat!!!!!!F61!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS39826\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C35!.\chipsView.dat!!!!!!F60!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS39859\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C36!.\chipsView.dat!!!!!!F59!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS40025\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C38!.\chipsView.dat!!!!!!F58!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27534\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C4!.\chipsView.dat!!!!!!F57!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS26710\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C5!.\chipsView.dat!!!!!!F56!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27258\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C6!.\chipsView.dat!!!!!!F55!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS23538\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C7!.\chipsView.dat!!!!!!F54!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS26758\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C8!.\chipsView.dat!!!!!!F53!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27278\@\DISCRETE\.\CAP NP.Normal\(chips)!CAP NP_CAP0603_DISCRETE_100NF!C9!.\chipsView.dat!!!!!!F52!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27514\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_4.7K!R1!.\chipsView.dat!!!!!!F47!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27346\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_4.7K!R2!.\chipsView.dat!!!!!!F46!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27298\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_4.7K!R3!.\chipsView.dat!!!!!!F45!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27554\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_4.7K!R4!.\chipsView.dat!!!!!!F44!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS41342\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_NC!R10!.\chipsView.dat!!!!!!F43!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS41316\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_NC!R9!.\chipsView.dat!!!!!!F42!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42667\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R11!.\chipsView.dat!!!!!!F41!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42683\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R12!.\chipsView.dat!!!!!!F40!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42699\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R13!.\chipsView.dat!!!!!!F39!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42715\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R14!.\chipsView.dat!!!!!!F38!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42731\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R15!.\chipsView.dat!!!!!!F37!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42747\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R16!.\chipsView.dat!!!!!!F36!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42763\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R17!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS42779\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R18!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43196\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R19!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43234\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R20!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43272\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R21!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43606\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R22!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43653\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R23!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS43689\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R24!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS46142\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R28!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS46206\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R29!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS46286\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_33R!R30!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45093\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_150R!R25!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45200\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_150R!R26!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45354\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_150R!R27!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS49282\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_5.1K!R31!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS49548\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_5.1K!R32!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS50135\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_45R!R33!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS50197\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_45R!R34!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS75104\@\DISCRETE\.\R.Normal\(chips)!R_RES0603_DISCRETE_1K!R35!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS79334\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_0R!R36!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS79360\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_NC!R37!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS79386\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_NC!R38!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS79412\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_1K!R39!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS24328\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_33!R5!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS28354\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_33!R7!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS89324\@\DISCRETE\.\RESISTOR.Normal\(chips)!RESISTOR_RES0603_DISCRETE_33!R8!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS28334\@d.s(v)!RES 0603_RES0603_DISCRETE_4.7K!R6!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS44187\@\RETHINKERSLIB\.\TCD1304DG_8Z,AW_.Normal\(chips)!TCD1304DG_8Z,AW__DIP1016W62P254L4160H372Q22N_TCD1304DG_8Z_AW_!IC1!.\chipsView.dat!!!!!!F51!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27366\@\CONNECTOR\.\CONN SOCKET 7x2.Normal\(chips)!CONN SOCKET 7X2_CONN_BULK_HEADER_2X7_2_2_CONN SOCKET 7X2!J1!.\chipsView.dat!!!!!!F50!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS48344\@\RETHINKERSLIB\.\USB-C 16pin.Normal\(chips)!USB-C 16PIN_SHENZHEN-CHUANGQIN-TECHNOLO_CQ-USB-C16PSMT01!J2!.\chipsView.dat!!!!!!F49!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45139\@\TRANSISTOR\.\2N6520.Normal\(chips)!2N6520_SOT23_2SA1015!Q1!.\chipsView.dat!!!!!!F48!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS16879\@d.s(v)!XC6SLX9-2TQG144C_TQG144_XIL_XC6SLX9-2TQG144C_A!U1!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS26778\@d.s(v)!XC6SLX9-2TQG144C_TQG144_XIL_XC6SLX9-2TQG144C_A!U1!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30761\@d.s(v)!AMS1117_SOT_AMS1117-2P5_AMS_AMS1117-1.2V!U2!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS30889\@d.s(v)!AMS1117_SOT_AMS1117-2P5_AMS_AMS1117-3.3V!U3!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS28290\@d.s(v)!M25P16-VMN6TPBA_SOIC8_M25P16-VMN6TPBA!U4!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS29876\@\RETHINKERSLIB\.\CH340E.Normal\(chips)!CH340E_MSOP-10_CH340E!U5!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS31651\@\RETHINKERSLIB\.\HT82V38.Normal\(chips)!HT82V38_SSOP-28_HT82V38!U6!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS45869\@\RETHINKERSLIB\.\TC7WH14FU.Normal\(chips)!TC7WH14FU_SSOP-8_TC7WH14FU!U7!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@\FPGA_CCD\.\SCHEMATIC1\(sch_1):\INS27318\@\RETHINKERSLIB\.\Oscillator 4p.Normal\(chips)!OSCILLATOR 4P_SMD7050_50MHZ!Y1!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

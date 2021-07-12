@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Cadence_Material_Lib Version="1.030">
+
+  <Material name="AIR">
+    <Flags>
+      <v>Used</v>
+    </Flags>
+    <Dielectric>
+      <Model>100 1 0 
+1000 1 0 
+</Model>
+    </Dielectric>
+    <Thermal>
+      <Model>27 0.0267 1.177 1005 0 
+37 0.0274 1.141 1005 0 
+47 0.0281 1.106 1006 0 
+57 0.0287 1.073 1006 0 
+67 0.0294 1.042 1007 0 
+77 0.03 1.012 1007 0 
+87 0.0306 0.983 1007 0 
+97 0.0313 0.956 1008 0 
+107 0.0319 0.931 1008 0 
+117 0.0325 0.906 1009 0 
+127 0.0331 0.883 1009 0 
+227 0.0389 0.706 1017 0 
+</Model>
+    </Thermal>
+  </Material>
+
+  <Material DefaultThickness="0.03048MM" name="COPPER">
+    <Flags>
+      <v>Used</v>
+    </Flags>
+    <Metal>
+      <Model>20 5.96e+07 
+40 5.528757e+07 
+60 5.155709e+07 
+80 4.829822e+07 
+100 4.542683e+07 
+120 4.28777e+07 
+140 4.059946e+07 
+</Model>
+    </Metal>
+    <Thermal>
+      <Model>27 401 8933 385 0.07 
+127 393 8933 397 0.07 
+227 386 8933 412 0.07 
+327 379 8933 417 0.07 
+527 366 8933 433 0.07 
+727 352 8933 451 0.07 
+927 339 8933 480 0.07 
+</Model>
+    </Thermal>
+    <Structural model="copper">
+      <Elasticity>2.500000e+001 1.210000e+011 3.800000e-001</Elasticity>
+      <CTE RefTemperature="20">2.500000e+001 1.775000e-005</CTE>
+    </Structural>
+  </Material>
+
+  <Material DefaultThickness="0.2032MM" name="FR-4">
+    <Flags>
+      <v>Used</v>
+    </Flags>
+    <Dielectric>
+      <Model>1000 4.5 0.035 
+</Model>
+    </Dielectric>
+    <Thermal>
+      <Model>25 0.23 1900 1200 0 
+</Model>
+    </Thermal>
+    <Structural model="FR-4">
+      <Elasticity>2.500000e+001 1.800000e+010 3.000000e-001</Elasticity>
+      <CTE RefTemperature="20">2.500000e+001 2.220000e-005</CTE>
+    </Structural>
+  </Material>
+
+</Cadence_Material_Lib>
