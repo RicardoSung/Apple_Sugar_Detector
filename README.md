@@ -23,6 +23,10 @@ TBD
 
 * 0.0.1
     * Work in progress, framework uploaded
+* 0.1
+    * PCB design first version uploaded
+    * External structure first version uploaded
+    * Android application first version uploaded
 
 ## Meta
 
