@@ -9,7 +9,7 @@
    *  Autodesk Inventor 2020 +
    *  Cadence OrCAD Alllegro 17.4 +
    *  Xilinx ISE Designer 14.7 +
-   *  Python 3.9 
+   *  Python 3.8 
    *  Tensorflow 2.5.0   
    *  [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android#:~:text=usb-serial-for-android%20This%20is%20a%20driver%20library%20for%20communication,are%20required%3B%20all%20drivers%20are%20implemented%20in%20Java.) library
 
