@@ -1,5 +1,5 @@
-# Fruit Companion
-> Fruit Companion is a complete set of the construction of DIYed brix hydrometer.
+# Apple Sugar Detector
+> Apple sugar detector is a complete set of the construction of DIYed brix hydrometer targeted on Apples.
 
 
 
