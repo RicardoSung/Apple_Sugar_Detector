@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send_white_24dp.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\drawable\\ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\raw_b.txt.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\raw\\b.txt"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\raw_a.txt.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\raw\\a.txt"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\layout_chart_marker_view.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\layout\\chart_marker_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\raw_c.txt.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\raw\\c.txt"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_red_apple.png.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\mipmap-hdpi\\red_apple.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\raw_d.txt.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\raw\\d.txt"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\layout_fragment_terminal.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\layout\\fragment_terminal.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\layout_device_list_item.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\layout\\device_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\layout_device_list_header.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\layout\\device_list_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_white_24dp.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\drawable\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\raw_f.txt.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\raw\\f.txt"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\menu_menu_devices.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\menu\\menu_devices.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\raw_e.txt.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\raw\\e.txt"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\menu_menu_terminal.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\menu\\menu_terminal.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

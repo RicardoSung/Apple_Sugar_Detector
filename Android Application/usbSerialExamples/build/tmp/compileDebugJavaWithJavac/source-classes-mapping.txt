@@ -1,0 +1,22 @@
+com/hoho/android/usbserial/examples/CustomProber.java
+ com.hoho.android.usbserial.examples.CustomProber
+com/hoho/android/usbserial/examples/BuildConfig.java
+ com.hoho.android.usbserial.examples.BuildConfig
+com/hoho/android/usbserial/util/HexDump.java
+ com.hoho.android.usbserial.util.HexDump
+com/hoho/android/usbserial/examples/TFLiteLoader.java
+ com.hoho.android.usbserial.examples.TFLiteLoader
+com/hoho/android/usbserial/examples/ChartUtil.java
+ com.hoho.android.usbserial.examples.ChartUtil
+ com.hoho.android.usbserial.examples.CustomMarkerView
+com/hoho/android/usbserial/examples/MainActivity.java
+ com.hoho.android.usbserial.examples.MainActivity
+com/hoho/android/usbserial/examples/DevicesFragment.java
+ com.hoho.android.usbserial.examples.DevicesFragment
+ com.hoho.android.usbserial.examples.DevicesFragment$1
+ com.hoho.android.usbserial.examples.DevicesFragment$ListItem
+com/hoho/android/usbserial/examples/TerminalFragment.java
+ com.hoho.android.usbserial.examples.TerminalFragment
+ com.hoho.android.usbserial.examples.TerminalFragment$1
+ com.hoho.android.usbserial.examples.TerminalFragment$ControlLines
+ com.hoho.android.usbserial.examples.TerminalFragment$UsbPermission

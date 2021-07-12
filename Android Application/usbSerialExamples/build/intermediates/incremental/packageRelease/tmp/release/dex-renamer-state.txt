@@ -1,0 +1,4 @@
+#Fri Jul 09 10:36:54 CST 2021
+base.0=D\:\\Android\\AndroidCode\\usb-serial-for-android-master\\usbSerialExamples\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

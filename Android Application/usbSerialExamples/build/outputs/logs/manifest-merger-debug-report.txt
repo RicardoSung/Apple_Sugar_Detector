@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [:usbSerialForAndroid] D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialForAndroid\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Voluntino\.gradle\caches\transforms-3\a133be0b9605826df377561f28e56449\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Voluntino\.gradle\caches\transforms-3\6c629fb9fbb2e78d6c60536ad9f54b76\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\16825cef70eae9a2ba908b87703269f8\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\8104f3f69f4523dbd45de4e0683aef05\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Voluntino\.gradle\caches\transforms-3\ae52f33f0333299b33f0d3b35f5ceb1d\transformed\tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\0f430ac584d4d13016941fd74dade5e0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\13b4a9de87454124361a45c8f48525d7\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\5d9886f5f5c375a313e770b7cc06c968\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\3fd9d701462814c49e8716716130c9d8\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\3c29fd5e3a3830656502e6574a327038\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\e4e7cde2263bfa1e85fb13794b894eb7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\58dc91a13b0b8b6cf07fc8a44a7cd8fa\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\95c2ad6030e688131b0256aa421b98d1\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\2b96e7cf2e79671ab9f67cf1ed2a7b93\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1828eebb078e86245abb71db029327ee\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\402c586aee11d1d54a026ca298ddc672\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1eb8268f1e7723d9be147695eee639d9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\7feb6722ab15d932a5580608348467aa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\760f095a8d6911b7f9e72a72d242cc24\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\d2238b2a9474108b261868f18c7ea042\transformed\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\92ffb9f2cf3d5ea5efc7e712dfd92847\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\8284afa54ef980552acc6542b97480dc\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Voluntino\.gradle\caches\transforms-3\2d8ae992b7b26928b91c87685f1e70d4\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1c4569abff570964e5e3928ee81f777b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\b2a0ceda47181f254f7f3de9e9fa06cd\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\437de057677a3e8cb90bbc139014112f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\942106862026babefffba0b700b4378c\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\f50ea8f3503553e73d0359698f02ee8c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\78a47aacbb322543fadbc3bef2b059e3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\6061da7736bad631bc177ee145d3fd8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\18956e620a6342505a17f6872d7a2bfd\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\775fc0c67911cad91ac0730be477ee7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\ac75fcdc6d731470afb68365828c74ce\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\b20b377d2ccd5ef3ad0f59bd4a840d20\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\e68e16ea0780ae9dd1863acad4925fde\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:4:5-50
+		INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:7:5-32:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Voluntino\.gradle\caches\transforms-3\a133be0b9605826df377561f28e56449\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Voluntino\.gradle\caches\transforms-3\a133be0b9605826df377561f28e56449\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Voluntino\.gradle\caches\transforms-3\6c629fb9fbb2e78d6c60536ad9f54b76\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Voluntino\.gradle\caches\transforms-3\6c629fb9fbb2e78d6c60536ad9f54b76\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Voluntino\.gradle\caches\transforms-3\ae52f33f0333299b33f0d3b35f5ceb1d\transformed\tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Voluntino\.gradle\caches\transforms-3\ae52f33f0333299b33f0d3b35f5ceb1d\transformed\tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Voluntino\.gradle\caches\transforms-3\2d8ae992b7b26928b91c87685f1e70d4\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Voluntino\.gradle\caches\transforms-3\2d8ae992b7b26928b91c87685f1e70d4\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1c4569abff570964e5e3928ee81f777b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1c4569abff570964e5e3928ee81f777b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Voluntino\.gradle\caches\transforms-3\2d8ae992b7b26928b91c87685f1e70d4\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:11:9-60
+	android:icon
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:8:9-41
+	android:theme
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:10:9-40
+activity#com.hoho.android.usbserial.examples.MainActivity
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:16:9-31:20
+	android:label
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:18:13-45
+	android:launchMode
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:19:13-44
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:20:13-67
+	android:name
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:23:27-74
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:25:13-27:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:26:17-90
+	android:name
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:26:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:28:13-30:57
+	android:resource
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:30:17-54
+	android:name
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml:29:17-79
+uses-sdk
+INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+MERGED from [:usbSerialForAndroid] D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialForAndroid\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:usbSerialForAndroid] D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialForAndroid\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Voluntino\.gradle\caches\transforms-3\a133be0b9605826df377561f28e56449\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Voluntino\.gradle\caches\transforms-3\a133be0b9605826df377561f28e56449\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Voluntino\.gradle\caches\transforms-3\6c629fb9fbb2e78d6c60536ad9f54b76\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Voluntino\.gradle\caches\transforms-3\6c629fb9fbb2e78d6c60536ad9f54b76\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\16825cef70eae9a2ba908b87703269f8\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\16825cef70eae9a2ba908b87703269f8\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\8104f3f69f4523dbd45de4e0683aef05\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\8104f3f69f4523dbd45de4e0683aef05\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Voluntino\.gradle\caches\transforms-3\ae52f33f0333299b33f0d3b35f5ceb1d\transformed\tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Voluntino\.gradle\caches\transforms-3\ae52f33f0333299b33f0d3b35f5ceb1d\transformed\tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\0f430ac584d4d13016941fd74dade5e0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\0f430ac584d4d13016941fd74dade5e0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\13b4a9de87454124361a45c8f48525d7\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\13b4a9de87454124361a45c8f48525d7\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\5d9886f5f5c375a313e770b7cc06c968\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\5d9886f5f5c375a313e770b7cc06c968\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\3fd9d701462814c49e8716716130c9d8\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\3fd9d701462814c49e8716716130c9d8\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\3c29fd5e3a3830656502e6574a327038\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\3c29fd5e3a3830656502e6574a327038\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\e4e7cde2263bfa1e85fb13794b894eb7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\e4e7cde2263bfa1e85fb13794b894eb7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\58dc91a13b0b8b6cf07fc8a44a7cd8fa\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\58dc91a13b0b8b6cf07fc8a44a7cd8fa\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\95c2ad6030e688131b0256aa421b98d1\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Voluntino\.gradle\caches\transforms-3\95c2ad6030e688131b0256aa421b98d1\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\2b96e7cf2e79671ab9f67cf1ed2a7b93\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\2b96e7cf2e79671ab9f67cf1ed2a7b93\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1828eebb078e86245abb71db029327ee\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1828eebb078e86245abb71db029327ee\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\402c586aee11d1d54a026ca298ddc672\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\402c586aee11d1d54a026ca298ddc672\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1eb8268f1e7723d9be147695eee639d9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1eb8268f1e7723d9be147695eee639d9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\7feb6722ab15d932a5580608348467aa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\7feb6722ab15d932a5580608348467aa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\760f095a8d6911b7f9e72a72d242cc24\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\760f095a8d6911b7f9e72a72d242cc24\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\d2238b2a9474108b261868f18c7ea042\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\d2238b2a9474108b261868f18c7ea042\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\92ffb9f2cf3d5ea5efc7e712dfd92847\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\92ffb9f2cf3d5ea5efc7e712dfd92847\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\8284afa54ef980552acc6542b97480dc\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\8284afa54ef980552acc6542b97480dc\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Voluntino\.gradle\caches\transforms-3\2d8ae992b7b26928b91c87685f1e70d4\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Voluntino\.gradle\caches\transforms-3\2d8ae992b7b26928b91c87685f1e70d4\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1c4569abff570964e5e3928ee81f777b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\1c4569abff570964e5e3928ee81f777b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\b2a0ceda47181f254f7f3de9e9fa06cd\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\b2a0ceda47181f254f7f3de9e9fa06cd\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\437de057677a3e8cb90bbc139014112f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Voluntino\.gradle\caches\transforms-3\437de057677a3e8cb90bbc139014112f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\942106862026babefffba0b700b4378c\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\942106862026babefffba0b700b4378c\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\f50ea8f3503553e73d0359698f02ee8c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\f50ea8f3503553e73d0359698f02ee8c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\78a47aacbb322543fadbc3bef2b059e3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\78a47aacbb322543fadbc3bef2b059e3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\6061da7736bad631bc177ee145d3fd8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\6061da7736bad631bc177ee145d3fd8d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\18956e620a6342505a17f6872d7a2bfd\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\18956e620a6342505a17f6872d7a2bfd\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\775fc0c67911cad91ac0730be477ee7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\775fc0c67911cad91ac0730be477ee7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\ac75fcdc6d731470afb68365828c74ce\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\ac75fcdc6d731470afb68365828c74ce\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\b20b377d2ccd5ef3ad0f59bd4a840d20\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\b20b377d2ccd5ef3ad0f59bd4a840d20\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\e68e16ea0780ae9dd1863acad4925fde\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Voluntino\.gradle\caches\transforms-3\e68e16ea0780ae9dd1863acad4925fde\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+		MERGED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidCode\usb-serial-for-android-master\usbSerialExamples\src\main\AndroidManifest.xml
