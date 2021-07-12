@@ -11,6 +11,7 @@
    *  Xilinx ISE Designer 14.7 +
    *  Python 3.9 
    *  Tensorflow 2.5.0   
+   *  [usb-serial-for-android](usb-serial-for-android) library
 
 For installable APK, please direct to `release`.
 
