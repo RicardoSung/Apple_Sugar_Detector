@@ -1,4 +1,4 @@
-# Fruit Companion
+# Fruit CompanionCancel changes
 > Fruit Companion is a complete set of the construction of DIYed brix hydrometer.
 
 
@@ -18,7 +18,7 @@ TBD
 
 ## Meta
 
-Distributed under the GLP license. See ``LICENSE`` for more information.
+Distributed under the GPL license. See ``LICENSE`` for more information.
 
 
 ## Contributing
