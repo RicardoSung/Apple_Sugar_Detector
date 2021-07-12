@@ -11,7 +11,7 @@
    *  Xilinx ISE Designer 14.7 +
    *  Python 3.9 
    *  Tensorflow 2.5.0   
-   *  [usb-serial-for-android](usb-serial-for-android) library
+   *  [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android#:~:text=usb-serial-for-android%20This%20is%20a%20driver%20library%20for%20communication,are%20required%3B%20all%20drivers%20are%20implemented%20in%20Java.) library
 
 For installable APK, please direct to `release`.
 
