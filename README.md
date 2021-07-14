@@ -38,6 +38,9 @@ TBD
     * Neural network first version uploaded
     * External structure third version uploaded
     * Optic simulation second version uploaded
+* 0.4
+    * Optic simulation third version uploaded
+    * 3D printing first version
 
 ## Meta
 
