@@ -41,6 +41,10 @@ TBD
 * 0.4
     * Optic simulation third version uploaded
     * 3D printing first version
+* 0.5
+    * Optic simulation fourth version uploaded
+    * 3D printing second version
+    * First training dataset acquired 
 
 ## Meta
 
