@@ -1,17 +1,58 @@
-import torch.utils.data as data
 import utils_data
-import cv2
+import numpy as np
 
 
-class DIV2K_Dataset(data.Dataset):
-    def __init__(self, LR_file_path, HR_file_path, scale):
-        super(DIV2K_Dataset, self).__init__()
+# Data Preparation
+def data_prepare(save=0, pre_load=0):
+    if pre_load == 1:
+        spectra_data = np.load('./spectra.npy')
+        brix_data = np.load('./brix.npy')
 
-        self.HR_data_names = utils_data.file_gather(HR_file_path)
-        self.LR_data_names = utils_data.file_gather(LR_file_path, scale)
+    else:
+        file_idx = 0
+        data_len = 3648
+        spectra_file_name = sorted(utils_data.file_gather(
+            '/home/peter/Documents/Programs/Apple/data/uncategorized'))
 
-    def __getitem__(self, index):
-        return (cv2.imread(self.HR_data_names[index]), cv2.imread(self.LR_data_names[index]))
+        spectra_data = np.zeros(
+            (len(spectra_file_name), data_len))
+        brix_data = np.zeros(len(spectra_file_name))
 
-    def __len__(self):
-        return len(self.HR_data_names)
+        for i in range(len(spectra_file_name)):
+            f = open(spectra_file_name[file_idx])
+            line = f.readlines()
+            line = str(line).replace("['","")
+            line = line.replace("\\n", "")
+            line = line.replace(",","")
+            line = line.replace("']","")
+            line = line.replace("'","")
+            line = line.split(" ")
+            idx = 0
+            for data in line:
+                spectra_data[i, idx] = data
+                idx = idx + 1
+                if idx == 3648:
+                    break
+            f.close()
+            file_idx = file_idx + 1
+
+        idx = 0
+        for name in spectra_file_name:
+            line = name
+            line = line.replace('/home/peter/Documents/Programs/Apple/data/uncategorized/',"")
+            line = line.replace('.txt',"")
+            line = float(line) / 100
+            brix_data[idx] = line
+            idx = idx + 1
+
+
+    if save == 1:
+        np.save('spectra', spectra_data)
+        np.save('brix', brix_data)
+
+    return spectra_data, brix_data
+
+
+if __name__ == "__main__":
+    brix_data, spectra_data = data_prepare(save=1)
+    print('read ' + str(spectra_data.shape[0]) + ' data')
